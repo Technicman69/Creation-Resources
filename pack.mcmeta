@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 18,
+    "description": [{"text":"C","color":"dark_purple"},{"text":"r","color":"#c41ab0"},{"text":"e","color":"#cb35a3"},{"text":"a","color":"#d25095"},{"text":"t","color":"#d86a88"},{"text":"i","color":"#df857b"},{"text":"o","color":"#e6a06d"},{"text":"n ","color":"#edbb60"},{"text":"R","color":"#f3d553"},{"text":"e","color":"#faf045"},{"text":"s","color":"#fef33f"},{"text":"o","color":"#fedf3f"},{"text":"u","color":"#fecb3f"},{"text":"r","color":"#feb73f"},{"text":"c","color":"#fea33f"},{"text":"e","color":"#fe8f3f"},{"text":"p","color":"#fe7b3f"},{"text":"a","color":"#fe673f"},{"text":"c","color":"#fe533f"},{"text":"k","color":"red"}]
+  }
+}

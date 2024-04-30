@@ -1,0 +1,50 @@
+{
+  "block.farmersdelight.sweet_berry_cheesecake": "§eBerried Delight",
+  "item.farmersdelight.sweet_berry_cheesecake_slice": "§eKawałek Berried Delight",
+
+  "block.farmersdelight.chocolate_pie": "Murzynek",
+  "item.farmersdelight.hot_cocoa": "Kakałko",
+  "item.farmersdelight.cooked_chicken_cuts": "Nuggetsy",
+  "item.farmersdelight.cooked_bacon": "Bekon",
+
+  "item.farmersdelight.pie_crust": "Baza ciasta",
+  "item.farmersdelight.chocolate_pie_slice": "Kawałek murzynka",
+
+  "item.farmersdelight.egg_sandwich": "Jajochlebek",
+
+  "item.farmersdelight.nether_salad": "Piekielna sałatka",
+  "item.farmersdelight.chicken_soup": "Rosół",
+  "item.farmersdelight.vegetable_soup": "Zupa jarzynowa",
+  "item.farmersdelight.fish_stew": "Zupa rybna",
+  "item.farmersdelight.fried_rice": "Ryż smażony",
+  "item.farmersdelight.baked_cod_stew": "Gulasz z pieczonego dorsza",
+  "item.farmersdelight.noodle_soup": "Ramen",
+
+  "item.farmersdelight.bacon_and_eggs": "Bekon z jajkami",
+  "item.farmersdelight.ratatouille": "Ratatuj",
+  "item.farmersdelight.squid_ink_pasta": "Maczaron",
+
+  "block.farmersdelight.rice_roll_medley_block": "Mieszanka rolek sushi",
+
+  "enchantment.farmersdelight.backstabbing": "Skrytobójstwo",
+  "enchantment.farmersdelight.backstabbing.desc": "Zwiększa obrażenia przy braniu przeciwników od tyłu.",
+
+  "farmersdelight.container.cooking_pot.heated": "Na ogniu",
+
+
+  "farmersdelight.advancement.get_rich_soil": "Super nawóz",
+  "farmersdelight.advancement.obtain_netherite_knife.desc": "Użyj całej jednej sztabki netherytu, by ulepszyć swój nóż! Albo, wynocha z kuchni.",
+  "farmersdelight.advancement.get_fd_seed": "Dzikie ziele",
+  "farmersdelight.advancement.plant_rice": "Zapuść korzenie",
+  "farmersdelight.advancement.get_mushroom_colony": "Prawie jak na stopach starej",
+  "farmersdelight.advancement.place_campfire": "Rozpalone ognicho",
+  "farmersdelight.advancement.use_skillet": "Za moich czasów...",
+  "farmersdelight.advancement.eat_nourishing_food": "Nażarty jak świnia!",
+  "farmersdelight.advancement.master_chef": "Gordon Ramsey",
+
+  "farmersdelight.subtitles.rotten_tomato.hit": "Zgniły pomidor się rozbryzguje (fuj)",
+
+  "farmersdelight.block.cutting_board.invalid_item": "Chuja, a nie potnę...",
+  "farmersdelight.block.cutting_board.invalid_tool": "Może innym narzędziem?...",
+  "farmersdelight.block.skillet.invalid_item": "Dupa. Nie smażę tego.",
+}

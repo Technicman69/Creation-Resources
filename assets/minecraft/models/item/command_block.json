@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:block/command_block",
+  "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 7411002
+            },
+            "model": "tech:item/bullet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7411004
+            },
+            "model": "tech:item/netherite_long_bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7411005
+            },
+            "model": "tech:item/netherite_long_bow_upgrade"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7411006
+            },
+            "model": "tech:item/zefhar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7411007
+            },
+            "model": "tech:item/zefhar_upgrade"
+        }
+    ]
+}

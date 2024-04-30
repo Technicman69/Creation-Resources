@@ -1,0 +1,6 @@
+{
+	"parent": "tech:item/netherite_long_bow",
+	"textures": {
+		"layer0": "tech:item/netherite_long_bow_pulling_0"
+	}
+}

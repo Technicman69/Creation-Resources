@@ -1,0 +1,181 @@
+﻿{
+    "jetstream.taunts": {
+        "sounds": [
+            {
+                "name": "tech:jetstream_taunts/laugh",
+                "weight": 1
+            },
+            {
+                "name": "tech:jetstream_taunts/not_bad_for",
+                "weight": 1
+            },
+            {
+                "name": "tech:jetstream_taunts/now_having_fun",
+                "weight": 2
+            },
+            {
+                "name": "tech:jetstream_taunts/wide_open",
+                "weight": 2
+            },
+            {
+                "name": "tech:jetstream_taunts/walked_into_it",
+                "weight": 2
+            },
+            {
+                "name": "tech:jetstream_taunts/all_youve_got",
+                "weight": 2
+            },
+            {
+                "name": "tech:jetstream_taunts/you_bore_me",
+                "weight": 2
+            },
+            {
+                "name": "tech:jetstream_taunts/pathetic",
+                "weight": 1
+            },
+            {
+                "name": "tech:jetstream_taunts/en_guarde",
+                "weight": 1
+            },
+            {
+                "name": "tech:jetstream_taunts/get_ready",
+                "weight": 1
+            },
+            {
+                "name": "tech:jetstream_taunts/no_match",
+                "weight": 2
+            }
+
+        ]
+    },
+    "jetstream.taunts.salty": {
+        "sounds": [
+            {
+                "name": "tech:jetstream_taunts/salty/dissapointing",
+                "weight": 1
+            },
+            {
+                "name": "tech:jetstream_taunts/salty/fiery_words",
+                "weight": 1
+            },
+            {
+                "name": "tech:jetstream_taunts/salty/just_cause",
+                "weight": 1
+            },
+            {
+                "name": "tech:jetstream_taunts/salty/youre_joke",
+                "weight": 1
+            },
+            {
+                "name": "tech:jetstream_taunts/salty/practice_first",
+                "weight": 1
+            },
+            {
+                "name": "tech:jetstream_taunts/salty/expected_more",
+                "weight": 1
+            },
+            {
+                "name": "tech:jetstream_taunts/salty/how_its_done",
+                "weight": 1
+            },
+            {
+                "name": "tech:jetstream_taunts/salty/not_good_enough",
+                "weight": 1
+            },
+            {
+                "name": "tech:jetstream_taunts/salty/amateur",
+                "weight": 1
+            },
+            {
+                "name": "tech:jetstream_taunts/salty/say_goodnight",
+                "weight": 1
+            },
+            {
+                "name": "tech:jetstream_taunts/salty/youre_joke",
+                "weight": 1
+            }
+        ]
+    },
+    "jetstream.taunts.swordsman": {
+        "sounds": [
+            {
+                "name": "tech:jetstream_taunts/swordsman"
+            }
+        ]
+    },
+    "jetstream.taunts.canine": {
+        "sounds": [
+            {
+                "name": "tech:jetstream_taunts/canine/all_bark",
+                "weight": 1
+            },
+            {
+                "name": "tech:jetstream_taunts/canine/sit_roll_over",
+                "weight": 1
+            }
+        ]
+    },
+    "jetstream.taunts.indulgent": {
+        "sounds": [
+            {
+                "name": "tech:jetstream_taunts/indulgent/dont_be_shy",
+                "weight": 1
+            },
+            {
+                "name": "tech:jetstream_taunts/indulgent/im_quite_good",
+                "weight": 1
+            },
+            {
+                "name": "tech:jetstream_taunts/indulgent/technique_lacks",
+                "weight": 1
+            }
+        ]
+    },
+    "gun.reload": {
+        "sounds": [
+            {
+                "name": "tech:gun/reload"
+            }
+        ]
+    },
+    "gun.shoot": {
+        "sounds": [
+            {
+                "name": "tech:gun/shoot"
+            }
+        ]
+    },
+    "music.the_only_thing_i_know_for_real": {
+        "sounds": [
+            {
+                "name": "tech:music/the_only_thing_i_know_for_real"
+            }
+        ]
+    },
+    "katana.deflect": {
+        "sounds": [
+            {
+                "name": "tech:katana/deflect1"
+            },
+            {
+                "name": "tech:katana/deflect2"
+            },
+            {
+                "name": "tech:katana/deflect3"
+            }
+        ]
+    },
+    "winhelm": {
+        "sounds": [
+            {
+                "name": "tech:winhelm/1"
+            },
+            {
+                "name": "tech:winhelm/2"
+            },
+            {
+                "name": "tech:winhelm/3"
+            }
+        ]
+    }
+}
