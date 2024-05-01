@@ -74,6 +74,12 @@
                 "pull": 0.9
             },
             "model": "tech:item/netherite_long_bow_pulling_2"
-        }
+        },
+	{
+          "predicate": {
+              "custom_model_data": 74201
+          },
+          "model": "tech:item/druid_staff"
+      	}
     ]
 }
