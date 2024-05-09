@@ -46,6 +46,12 @@
             },
             "model": "item/bow_pulling_2"
         },
+	    {
+            "predicate": {
+                "custom_model_data": 74201
+            },
+            "model": "tech:item/druid_staff"
+      	},
         {
             "predicate": {
                 "custom_model_data": 7411004
@@ -75,11 +81,34 @@
             },
             "model": "tech:item/netherite_long_bow_pulling_2"
         },
-	{
-          "predicate": {
-              "custom_model_data": 74201
-          },
-          "model": "tech:item/druid_staff"
-      	}
+        {
+            "predicate": {
+                "custom_model_data": 7411006
+            },
+            "model": "tech:item/zefhar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7411006,
+                "pulling": 1
+            },
+            "model": "tech:item/zefhar_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7411006,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "tech:item/zefhar_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7411006,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "tech:item/zefhar_pulling_2"
+        }
     ]
 }

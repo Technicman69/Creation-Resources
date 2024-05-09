@@ -6,15 +6,15 @@
   "overrides": [
         {
             "predicate": {
+                "custom_model_data": 7411000
+            },
+            "model": "tech:item/empty"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 7411003
             },
             "model": "tech:item/gun_lock"
-        },
-	{
-          "predicate": {
-              "custom_model_data": 7411000
-          },
-          "model": "tech:item/empty"
-      	}
+        }
     ]
 }

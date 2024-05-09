@@ -1,0 +1,6 @@
+{
+	"parent": "tech:item/zefhar",
+	"textures": {
+		"layer0": "tech:item/zefhar_pulling_2"
+	}
+}
