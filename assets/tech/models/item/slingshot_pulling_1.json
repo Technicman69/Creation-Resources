@@ -1,0 +1,6 @@
+{
+    "parent": "tech:item/slingshot",
+    "textures": {
+        "layer0": "tech:item/slingshot_pulling_1"
+    }
+}

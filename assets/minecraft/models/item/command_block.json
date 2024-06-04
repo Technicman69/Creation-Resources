@@ -30,6 +30,12 @@
                 "custom_model_data": 7411007
             },
             "model": "tech:item/zefhar_upgrade"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7411069
+            },
+            "model": "tech:item/ocarina"
         }
     ]
 }

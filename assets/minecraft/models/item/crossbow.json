@@ -28,12 +28,6 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 7411001
-            },
-            "model": "tech:item/gun"
-        },
-        {
-            "predicate": {
                 "pulling": 1
             },
             "model": "item/crossbow_pulling_0"
@@ -70,6 +64,16 @@
                 "custom_model_data": 7411001
             },
             "model": "tech:item/gun"
-        }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7411002
+            },
+            "model": "tech:item/slingshot"
+        },
+        {"predicate": {"custom_model_data": 7411002, "pulling": 1}, "model": "tech:item/slingshot_pulling_0"},
+        {"predicate": {"custom_model_data": 7411002, "pulling": 1, "pull": 0.58}, "model": "tech:item/slingshot_pulling_1"},
+        {"predicate": {"custom_model_data": 7411002, "pulling": 1, "pull": 1}, "model": "tech:item/slingshot_pulling_2"},
+        {"predicate": {"custom_model_data": 7411002, "charged": 1}, "model": "tech:item/slingshot_pulling_2"}
     ]
 }
