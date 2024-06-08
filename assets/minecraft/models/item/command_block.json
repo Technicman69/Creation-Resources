@@ -33,6 +33,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 7411008
+            },
+            "model": "tech:item/note"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 7411069
             },
             "model": "tech:item/ocarina"
