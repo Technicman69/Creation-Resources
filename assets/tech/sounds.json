@@ -177,5 +177,26 @@
                 "name": "tech:winhelm/3"
             }
         ]
+    },
+    "ocarina.notes": {
+        "sounds": [
+            {
+                "name": "tech:ocarina/notes"
+            }
+        ]
+    },
+    "ocarina.rain": {
+        "sounds": [
+            {
+                "name": "tech:ocarina/rain"
+            }
+        ]
+    },
+    "ocarina.storm": {
+        "sounds": [
+            {
+                "name": "tech:ocarina/storm"
+            }
+        ]
     }
 }
