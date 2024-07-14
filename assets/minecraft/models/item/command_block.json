@@ -39,6 +39,30 @@
         },
         {
             "predicate": {
+                "custom_model_data": 7411012
+            },
+            "model": "tech:item/nanite_upgrade_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7411013
+            },
+            "model": "tech:item/nanite_upgrade_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7411014
+            },
+            "model": "tech:item/nanite_upgrade_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7411015
+            },
+            "model": "tech:item/nanite_upgrade_5"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 7411069
             },
             "model": "tech:item/ocarina"
