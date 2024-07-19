@@ -39,6 +39,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 7411011
+            },
+            "model": "tech:item/biomass"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 7411012
             },
             "model": "tech:item/nanite_upgrade_2"
