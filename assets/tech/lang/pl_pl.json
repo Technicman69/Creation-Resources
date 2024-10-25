@@ -34,7 +34,7 @@
     "creation.advancements.kill_origin.title": "Zabójca",
     "creation.advancements.kill_origin.description": "Zabij dowolną kreację",
 
-    "creation.catandon.change_mode": "Przełączono na tryb: ",
+    "creation.catandon.change_mode": "Przełączono na tryb: %s",
     "creation.catandon.mode.active": "Aktywny",
     "creation.catandon.mode.empty": "Oszczędzania energii",
     "creation.catandon.mode.passive": "Pasywny",
@@ -238,6 +238,10 @@
     "creation.power.kuba.water_regen.description": "Woda działa na ciebie regenerująco i nie odnosisz obrażeń od podpalenia. Jednakże obrażenia od magii są większe!",
     "creation.power.kuba.water_whirlpool.name": "Wodny wir",
     "creation.power.kuba.water_whirlpool.description": "Aktywuj swoje wodne moce. Twoje wzmocnione ataki pozostawiają fale wodne, sprawiające, że twoi wrogowie topią się w powietrzu!\nJednak są one bezużyteczne w gorących miejscach.",
+
+
+
+    
     "creation.power.marjan.chiropteromorphia.name": "Chiropteromorfia",
     "creation.power.marjan.chiropteromorphia.description": "Zamiana w nietoperza!",
     "creation.power.marjan.crafting_spell.name": "Zaklęcie Kreacji",

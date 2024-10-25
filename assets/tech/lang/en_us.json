@@ -1,0 +1,448 @@
+{
+	"creation.advancements.kill.bartolonii.title": "Druid duel",
+	"creation.advancements.kill.bartolonii.description": "Kill Ranger",
+	
+	"creation.advancements.kill.blaite.title": "True Racist",
+	"creation.advancements.kill.blaite.description": "Kill Blaite",
+	
+	"creation.advancements.kill.catandon.title": "Insecticide",
+	"creation.advancements.kill.catandon.description": "Kill Nanite Replicator",
+	
+	"creation.advancements.kill.human.title": "Genocidal",
+	"creation.advancements.kill.human.description": "Kill a human",
+	
+	"creation.advancements.kill.jetstream.title": "You're hired!",
+	"creation.advancements.kill.jetstream.description": "Kill Jetstream Sam",
+	
+	"creation.advancements.kill.kakti.title": "Put that thing back where it came from!",
+	"creation.advancements.kill.kakti.description": "Kill Shriekling",
+	
+	"creation.advancements.kill.konti.title": "\"I live, I die, I live again\"",
+	"creation.advancements.kill.konti.description": "Kill Fallen Knight",
+	
+	"creation.advancements.kill.kowogard.title": "Failed experiment",
+	"creation.advancements.kill.kowogard.description": "Kill Experimental",
+	
+	"creation.advancements.kill.kuba.title": "Baited busted!",
+	"creation.advancements.kill.kuba.description": "Kill Gatsu",
+	
+	"creation.advancements.kill.marjan.title": "For dirt you are and to the dirt you will go back",
+	"creation.advancements.kill.marjan.description": "Kill Druid",
+	
+	"creation.advancements.kill.memes245.title": "Demon Slayer",
+	"creation.advancements.kill.memes245.description": "Kill Oni",
+	
+	"creation.advancements.kill.racist.title": "World piece",
+	"creation.advancements.kill.racist.description": "Kill Racist",
+	
+	"creation.advancements.kill.rafi.title": "Woodland Beast",
+	"creation.advancements.kill.rafi.description": "Kill Scoia'tael",
+	
+	"creation.advancements.kill.syriusz.title": "...To the dust you will go back",
+	"creation.advancements.kill.syriusz.description": "Kill Blue Creeper",
+	
+	"creation.advancements.kill.technicman.title": "I'm only human after all",
+	"creation.advancements.kill.technicman.description": "Kill Demon of Vengence",
+	
+	"creation.advancements.kill.watsug.title": "Demon Slayer Slayer",
+	"creation.advancements.kill.watsug.description": "Kill Doomguy",
+	
+	"creation.advancements.kill_origin.title": "Killer",
+	"creation.advancements.kill_origin.description": "Kill any Creation",
+
+	"creation.catandon.change_mode": "Switched to %s mode",
+	"creation.catandon.mode.active": "active",
+	"creation.catandon.mode.empty": "energy saving",
+	"creation.catandon.mode.passive": "passive",
+	"creation.catandon.mode.repair": "repair",
+	
+	"creation.catandon.factory_destroyed": "Your factory has been destroyed!",
+	"creation.catandon.factory_upgraded": "Your factory was upgraded to level %s successfully!",
+	
+	"creation.marjan.material_display": "Supplied material: %s/%s",
+	"creation.marjan.staff_upgrade": "Your druid staff was upgraded!",
+	
+	"creation.technicman.mensingresion_target": "The cursed mark is looming over %s!",
+
+	"item.creation.netherite_long_bow.name": "Netherite long bow",
+	"item.creation.netherite_long_bow.lore": "Can only be wielded by elves",
+	
+	"item.creation.zefhar.name": "Zefhar",
+	"item.creation.ocarina.name": "Ocarina",
+	"item.creation.slingshot.name": "Slingshot",
+	"item.creation.factory.name": "Factory",
+	
+	"item.creation.factory_upgrade.name": "Factory upgrade",
+	"item.creation.factory_upgrade.level": "Level %s",
+	"item.creation.factory_upgrade.requirements.1": "Number of upgrades required",
+	"item.creation.factory_upgrade.requirements.2": "for next level: %s",
+	
+	"item.creation.bfg_bullet.name": "Ammo",
+	"item.creation.bfg_bullet.lore": "Right click with it on %s to load",
+	
+	"item.creation.bfg_gun_lock.name": "Gunlock",
+	"item.creation.bfg_gun_lock.lore": "Needs to be held in the offhand",
+	
+	"item.creation.bfg.name": "Shotgun",
+	"item.creation.bfg.lore.1": "Doomguy's shotgun is one of the",
+	"item.creation.bfg.lore.2": "strongest weapons in existence.",
+	"item.creation.bfg.lore.3": "However, not everyone can",
+	"item.creation.bfg.lore.4": "wield it!",
+	"item.creation.bfg.hint.1": "%s and %s are required",
+	"item.creation.bfg.hint.2": "for it to work!",
+	"item.creation.katana.name": "Katana",
+
+	"creation.origin.bartolonii.name": "Ranger",
+	"creation.origin.bartolonii.description": "Abandoned by your family, you were raised by Mother Nature, allowing you to manipulate plants to your advantage. You hate conflict, believing wars are unnecessary, and you limit yourself to fight only in self-defense.",
+	
+	"creation.origin.blaite.name": "Blaite",
+	"creation.origin.blaite.description": "He's a BLACK demon who likes camouflage and BLACK magic.",
+	
+	"creation.origin.catandon.name": "Nanite Replicator",
+	"creation.origin.catandon.description": "An ancient machine capable of replicating itself and acting as a vessel for dangerous nanites. It was constructed by an ancient race in order to build a deadly weapon. Unfortunately, an experiment with nanites got out of control and caused the destruction of the ancient race. The remaining ancient machine was locked deep underground to avoid a planet-wide cataclysm. After many years, it returns to the surface to destroy all organic life.",
+	
+	"creation.origin.jetstream.name": "Jetstream Sam",
+	"creation.origin.jetstream.description": "Sexy cyborg samurai straight from Metal Gear Rising: Revengeance!",
+	
+	"creation.origin.kakti.name": "Shriekling",
+	"creation.origin.kakti.description": "An ancient race from the depths of the subterranean, well adapted to living in dark conditions deep underground.",
+	
+	"creation.origin.konti.name": "Fallen Knight",
+	"creation.origin.konti.description": "Once this knight was a favorite of the king and the entire kingdom, known for his courage and impeccable honor. During a great battle in which he defended the borders of the kingdom, the enemy army was too strong, although he himself decimated the enemy army, it still did not help. After many hours of fighting, the knight's army was defeated, and he himself was taken prisoner after many years of torture. One day, the knight managed to escape with the help of a sorcerer who had been imprisoned there many years earlier than the knight. After this escape, the sorcerer returned to his sanctuary, which was located on an abandoned island, and the knight returned to the kingdom as a broken man. The king, considering him guilty of the defeat, stripped him of his titles and banished him from the castle. The people who had previously adored him, turned away from him. The knight went to the sorcerer to learn black magic with which he would take revenge on the king. The sorcerer provided help at the cost of being a sorcerer for the rest of his life. The knight agreed. And after many years of training, the knight returned to the kingdom to fulfill his vengeance upon the death of the king and many of the king's soldiers, the people of the kingdom named him the Fallen Knight.",
+	
+	"creation.origin.kowogard.name": "Experimental",
+	"creation.origin.kowogard.description": "The Doctor, who is also a patient, explores his abilities acquired during his journey through different dimensions. Unfortunately, he finds himself trapped in a new world where he encounters the unknown. Although harmless in terms of strength and combat skills, he is extremely fast, can jump high and maximizes his hunger by consuming a bottle of honey.",
+	
+	"creation.origin.kuba.name": "Gatsu",
+	"creation.origin.kuba.description": "Gatsu is a traveler who is looking for a worthy opponent in the world. Water has always been his passion, and it has turned into his weapon to fight opponents, making him a worthy opponent for many rivals. To this day, Gatsu is looking for an opponent worthy of his time.",
+	
+	"creation.origin.marjan.name": "Druid",
+	"creation.origin.marjan.description": "Druid, a friend of nature, fled from the Scoia'tael to lead a (quiet?) life.",
+	
+	"creation.origin.memes245.name": "Oni",
+	"creation.origin.memes245.description": "An ancient demon living in Japan (demon of fire and smoke) seeking revenge on people and all of humanity who brought him to life by performing a forbidden ritual. Through the ritual he brought various natural disasters, and also brought curses as a sign of complete hatred for the human race.",
+	
+	"creation.origin.racist.name": "Racist",
+	"creation.origin.racist.description": "The racist is a person who holds racist views (quote from wiki). You hate all races equally, including the human race, to which (turns out) you do not belong.",
+	
+	"creation.origin.rafi.name": "Scoia'tael",
+	"creation.origin.rafi.description": "Elven guerrilla, squirrel.",
+	
+	"creation.origin.syriusz.name": "Blue Creeper",
+	"creation.origin.syriusz.description": "A creature from Minecraft mythology, a race of mutated pigs. They have quite an explosive nature. Unlike regular creepers, this race does not die from self-destruction and does not destroy blocks with its explosion!",
+	
+	"creation.origin.technicman.name": "Demon of Vengence",
+	"creation.origin.technicman.description": "Once upon a time there was a human, who became a vessel for a demon feeding on his life force - the Demon of Vengeance! However, this terrible burden also has its advantages - in return, you receive a fraction of unpredictable demonic powers!",
+	
+	"creation.origin.watsug.name": "Doomguy",
+	"creation.origin.watsug.description": "He can create and shoot first-class guns!",
+
+
+
+	"creation.power.bartolonii.bonemeal.name": "Fertilization",
+	"creation.power.bartolonii.bonemeal.description": "Contact with Mother Nature enables you to fertilize the soil beneath your feet.",
+	"creation.power.bartolonii.bonemeal.badge.1": "Equip %s in your offhand and hold [%s] to use",
+	
+	"creation.power.bartolonii.daytime_bonus.name": "Photosynthesis",
+	"creation.power.bartolonii.daytime_bonus.description": "Absorbing energy from the sunlight boosts your vitality",
+	
+	"creation.power.bartolonii.eye_for_an_eye.name": "Eye for an eye",
+	"creation.power.bartolonii.eye_for_an_eye.description": "You deal twice the damage to monster, but attacking neutral and passive mobs hurts your feelings!",
+	
+	"creation.power.bartolonii.meat_bad.name": "Veganism",
+	"creation.power.bartolonii.meat_bad.description": "Taste of meat disgusts you",
+	
+	"creation.power.bartolonii.more_wood_crafting.name": "Naturalne Zasoby",
+	"creation.power.bartolonii.more_wood_crafting.description": "Potrafisz wytwarzać więcej i lepszej jakości rzeczy, z drewna.",
+	
+	"creation.power.bartolonii.nature.name": "Siła natury",
+	"creation.power.bartolonii.nature.description": "Jesteś fanem wszystkich barw natury. Im więcej ich wchłoniesz, tym bardziej jesteś połączony z Matką Naturą!",
+	"creation.power.bartolonii.nature.badge.1": "Wpływa na umiejętności: %s, %s oraz %s.",
+	
+	"creation.power.bartolonii.nearby_nature.name": "Krótki zasięg Natury",
+	"creation.power.bartolonii.nearby_nature.description": "Gdy w odległości dalszej niż 10 kratek od bloków naturalnych, (jak ziemia, drzewo czy mech) wszystkie efekty pozytywne i umiejętności stają się bezużyteczne do czasu, gdy nie wrócisz do pobliża natury.",
+	
+	"creation.power.bartolonii.summon_thorns.name": "Podziemny Cierń",
+	"creation.power.bartolonii.summon_thorns.description": "Będąc Druidem za życia, potrafisz manipulować roślinami dla swojej korzyści.",
+	
+	"creation.power.blaite.camo.name": "Kamuflaż",
+	"creation.power.blaite.camo.description": "Stajesz się jednym ze swoim otoczeniem.",
+	
+	"creation.power.blaite.dehydration.name": "Odwodnienie",
+	"creation.power.blaite.dehydration.description": "Nie możesz być daleko od swojego żywiołu. Długie przebywanie w gorących klimatach może powodować: słabość, biegunkę, ślepotę, zatwardzenie. Przed użyciem zapoznaj się z treścią origina lub skonsultuj się z jego twórcą, gdyż każda moc niewłaściwie zapoznana może zagrażać twojemu życiu lub zdrowiu!",
+	
+	"creation.power.blaite.diet.name": "Ścisła dieta",
+	"creation.power.blaite.diet.description": "Nie trawisz przetworzonych produktów.",
+	
+	"creation.power.blaite.freezing.name": "Gęsia skórka",
+	"creation.power.blaite.freezing.description": "Gdy jesteś głęboko pod ziemią lub głęboko w wodzie szybko marźniesz bez ciepłego odzienia.",
+	
+	"creation.power.blaite.grounded.name": "Elektroujemność",
+	"creation.power.blaite.grounded.description": "Jesteś dobrze uziemiony",
+	
+	"creation.power.blaite.hydration.name": "Dowodnienie",
+	"creation.power.blaite.hydration.description": "Stajesz się jednością ze swoim elementem.",
+	
+	"creation.power.blaite.laziness.name": "Zmęczenie",
+	"creation.power.blaite.laziness.description": "Jesteś leniwy.",
+	
+	"creation.power.blaite.mystical_ninja.name": "Militarne techniki półbiegu",
+	"creation.power.blaite.mystical_ninja.description": "Potrafisz szybko się skradać",
+	
+	"creation.power.blaite.ocarina.name": "Muzyczne solo",
+	"creation.power.blaite.ocarina.description": "Jesteś utalentowanym muzykiem. Połączyć to z twoją CZARNĄ magią, i to staje się dobrym narzędziem wojennym, za koszt doświadczenia.",
+	
+	"creation.power.blaite.slingshot.name": "Celne kule",
+	"creation.power.blaite.slingshot.description": "W razie konfrontacji, potrafisz strzelać kulami z procy.",
+	
+	"creation.power.catandon.autoreplication_system.name": "Samoreplikacja",
+	"creation.power.catandon.autoreplication_system.description": "Jako, że jesteś maszyną. Nie jesteś wstanie się sam naprawiać. Napraw mogą dokonywać tylko i wyłącznie system samoreplikacji nanitów albo fabryka, którą jesteś w stanie stworzyć tylko raz (kliknij na nią, aby aktywować!).",
+	
+	"creation.power.catandon.cloud_form.name": "Nanitowy skok",
+	"creation.power.catandon.cloud_form.description": "Dzięki nanitom jesteś w stanie zmienić swoją formę. Możesz na krótki dystans zmienić się w chmurę nanitów i przemieścić się w inne miejsce. Dzięki takiej formie możesz przecisnąć się w miejsca, w które normalnie nie byłbyś wstanie (Zużywa część nanitów).",
+	
+	"creation.power.catandon.diet.name": "Serce z metalu",
+	"creation.power.catandon.diet.description": "Jesteś wykonany całkowicie z metalu, nie jesteś w stanie żywić się w sposób organiczny, musisz dostarczać ciągły zasób surowców typu żelazo lub złoto by utrzymać dobry stan techniczny.",
+	
+	"creation.power.catandon.more_damage_taken.name": "Rdzewienie",
+	"creation.power.catandon.more_damage_taken.description": "Lawa, woda, ogień oraz śnieg, zadają ci większe obrażenia, ponieważ nie posiadasz osłony przed warunkami pogodowymi.",
+	
+	"creation.power.catandon.nanite_bar.name": "Wskaźnik nanitów",
+	"creation.power.catandon.nanite_bar.description": "Wskazuje on ilość posiadanych przez ciebie nanitów. Gdy pasek ten spadnie do zera stajesz się podatny na ataki i nie możesz używać umiejętności do póki pasek nie napełni się z powrotem.",
+	
+	"creation.power.catandon.nanite_cloud.name": "Nanitowa chmura",
+	"creation.power.catandon.nanite_cloud.description.start": "Nanitowa chmura ma trzy tryby:",
+	
+	"creation.power.catandon.nanite_cloud.description.mode.active": "- %s: Nanity targetują przeciwnika, który ciebie zaatakował. Chura również zaatakuje przeciwnika, którego ty zaatakujesz (jak pies). W tym trybie twoje systemy są w stanie bojowym. Zyskujesz siłę w walce, ale za to łatwo o przeciążenie systemu.",
+	"creation.power.catandon.nanite_cloud.description.mode.repair": "- %s: Nanity okrążają twoje metaliczne ciało ochraniając ważniejsze komponenty swoim kosztem oraz są wstanie naprawiać uszkodzone części.",
+	
+	"creation.power.catandon.nanite_cloud.description.mode.passive": "- %s: W tym trybie chmura jest całkowicie niewidoczna. Nanity zwiększają wydajność twojego systemu oraz podwyższają możliwości fizyczne.",
+	"creation.power.catandon.nanite_cloud.description.end": "Chmura nanitów sama w sobie nie jest duża, ponieważ system nie jest w stanie kontrolować aż tak dużej ilości nanitów naraz. Nanity są wrogo nastawione do wszystkiego co organiczne, każdy kontakt z chmurą nie skończy się dobrze dla oponenta. Nanity po kontakcie z organiczną kreacją/mobem nakładają efekt obumierania i zadają obrażenia.",
+	
+	"creation.power.catandon.no_regen.name": "Nanitowy system napraw",
+	"creation.power.catandon.no_regen.description": " Jako, że jesteś maszyną. Nie jesteś wstanie się sam naprawiać. Napraw mogą dokonywać tylko i wyłącznie nanity albo fabryka. Nie masz pasywnej regeneracji, chyba, że chmura jest ustawiona w tryb naprawy.",
+	
+	"creation.power.jetstream.dash.name": "Doskok",
+	"creation.power.jetstream.dash.description": "Podobnie z podwójnym skokiem, Jetstream może też skakać w poziomie!",
+	
+	"creation.power.jetstream.double_jump.name": "Skos w powietrzu",
+	"creation.power.jetstream.double_jump.description": "Używając specjalnych brazylijskich pseudo umiejętności walki, Sam może poruszać nogami w powietrzu z siłą wystarczającą do podwójnego skoku",
+	
+	"creation.power.jetstream.enhancements.name": "Cybernetyczne wzmocnienia",
+	"creation.power.jetstream.enhancements.description": "Lekkie cybernetyczne wzmocnienia zapewniają dużą ochronę, kosztem braku możliwości założenia zbroi",
+	
+	"creation.power.jetstream.high_jump.name": "Silne nogi",
+	"creation.power.jetstream.high_jump.description": "Dzięki lekkim cybernetycznym wzmocnieniom i dobrej technice Sam może wyzkoczyć wyżej niż standardowy śmiertelnik",
+	
+	"creation.power.jetstream.indulgency.name": "Pobłażliwość",
+	"creation.power.jetstream.indulgency.description": "Po zabiciu innego gracza, Sam Jetstream dodatkowo mu ubliża!",
+	
+	"creation.power.jetstream.no_regen.name": "Sztuczne ciało",
+	"creation.power.jetstream.no_regen.description": "Fakt, że jesteś przecież połowicznie cyborgiem sprawia, że uszkodzone części nie regenerują się tak prosto tak ciało!",
+	
+	"creation.power.jetstream.speed.name": "Cybordże nogi",
+	"creation.power.jetstream.speed.description": "Dzięki cybernetycznym wzmocnieniom jesteś szybki, jakbyś od urodzenia nie opuścił żadnego dnia nóżek.",
+	
+	"creation.power.jetstream.strong_legs.name": "Mocne nogi",
+	"creation.power.jetstream.strong_legs.description": "Dzięki lekkim cybernetycznym wzmocnieniom i dobrej technice lądowania Sam nie odnosi obrażeń od upadku! §n(SHIFT)",
+	
+	"creation.power.jetstream.taunt.name": "Prowokacja",
+	"creation.power.jetstream.taunt.description": "J Sam rzuca obelgą we wroga, wkurzając go i sprawiając że opuszcza gardę (działa tylko na wrogie moby)",
+	
+	"creation.power.kakti.calibration.name": "Kalibracja",
+	"creation.power.kakti.calibration.description": "Sculkowe sensory są skalibrowane pod twoje kroki, i potrafią je dobrze odróżnić od kroków innych stworzeń!",
+	
+	"creation.power.kakti.echolocation.name": "Echolokacja",
+	"creation.power.kakti.echolocation.description": "Posługujesz się echolokacją! Używasz jej jednocześnie do wykrywania potencjalnych wrogów oraz do walki z nimi!\n(Przytrzymaj [%s], aby skorzystać z tego drugiego typu umiejętności).",
+	
+	"creation.power.kakti.exp_regen.name": "Penitiakuracja",
+	"creation.power.kakti.exp_regen.description": "Twoje ciało pokrywa długowieczny sculk, który nie regeneruje się w łatwy sposób. Potrzebne jest duże doświadczenie, aby opanować technikę leczenia!",
+	
+	"creation.power.kakti.eye_sensitivity.name": "Wrażliwe ślepia",
+	"creation.power.kakti.eye_sensitivity.description": "Masz nadwrażliwość wzroku na światło słoneczne (to pewnie przez to ciągłe przebywanie w ciemnych miejscach!) Może czapka z daszkiem mogłaby trochę pomóc?",
+	
+	"creation.power.kakti.intangibility.name": "Bezcielestność",
+	"creation.power.kakti.intangibility.description": "Scolkowa forma pozwala na przenikanie przez bloki!",
+	
+	"creation.power.kakti.interference.name": "Interferencja",
+	"creation.power.kakti.interference.description": "Drgania wytwarzane przez sculkowe obiekty działają na Ciebie wzmacniająco, jednak szybko się od nich uzależniasz",
+	
+	"creation.power.kakti.resonance.name": "Rezonans",
+	"creation.power.kakti.resonance.description": "Przebywanie głęboko pod ziemią oraz wibracje pobliskiego rodzimego sculku powoli wprawiają cię w rezonans. Stan rezonansu umożliwia Ci panowanie nad twoimi sculkowymi umiejętnościami.",
+	"creation.power.kakti.resonance.badge.1": "Jest zużywany przez umiejętności: %s oraz %s",
+	
+	"creation.power.kakti.sculk_look.name": "Sculkowe oblicze",
+	"creation.power.kakti.sculk_look.description": "Jak by nie patrzeć, wyglądasz i śmierdzisz jak głębinowa istota. Oczywistym jest więc, że niektóre potwory będą czuły w tobie kogoś przyjaznego (a niektóre nie)!",
+	
+	"creation.power.kakti.sculk_nature.name": "Sculkowa natura",
+	"creation.power.kakti.sculk_nature.description": "Nie możesz się oprzeć sporadycznemu dawaniu usustu swojej sculkowej naturze!",      
+	
+	"creation.power.kakti.small_size.name": "Mały rozmiar",
+	"creation.power.kakti.small_size.description": "Przebywanie pod ziemią całe życie sprawiło, że na drodze ewolucji masz mały rozmiar oraz mniej krwi, a co za tym idzie: szybciej się wykrwawisz!",
+	
+	"creation.power.konti.better_food_regen.name": "Nasycenie",
+	"creation.power.konti.better_food_regen.description": "Jedzenie regeneruje Ci więcej zdrowia",
+	
+	"creation.power.konti.damage_reduction.name": "Zaklęta zbroja",
+	"creation.power.konti.damage_reduction.description": "Odporność na ogień i wybuchy",
+	
+	"creation.power.konti.double_damage.name": "Potężne ciosy",
+	"creation.power.konti.double_damage.description": "Po aktywowaniu podpalasz wysztkich przeciwników promieniu 6 bloków i zadajesz podwójdne obrażenia (przy mniejszej prędkości ataków)",
+	
+	"creation.power.konti.more_arrow_damage.name": "Kulo(nie)odporny",
+	"creation.power.konti.more_arrow_damage.description": "Dostajesz większe obrażenia od zwykłych strzał jak i tych z efektami",
+	
+	"creation.power.konti.skeleton_kill_penalty.name": "Godność",
+	"creation.power.konti.skeleton_kill_penalty.description": "Krzywdzenie swoich przyjaciół rani twoje szlachetne serce i w dużej mierze Cię brzydzi.",
+	
+	"creation.power.konti.summon_skeletons.name": "Nekromancja",
+	"creation.power.konti.summon_skeletons.description": "Użyj czarnej magii i przyzwij z zaświatów 4 poległych rycerzy, którzy staną u twoim boku (uważaj, aby nie przerwać zaklęcia).",
+	
+	"creation.power.kowogard.crafting_table.name": "Sprawny rzemieślnik",
+	"creation.power.kowogard.crafting_table.description": "Jesteś zawsze gotowy do craftowania, co jest dość imponujące, bo wymaga dużego doświadczenia.",
+	
+	"creation.power.kowogard.creeper_allies.name": "Pokój z oddziałem saperskim!",
+	"creation.power.kowogard.creeper_allies.description": "Creepery są wobec Ciebie neutralne (ale nie pasywne!)",
+	
+	"creation.power.kowogard.exhaust.name": "Głodny przygód",
+	"creation.power.kowogard.exhaust.description": "Twój pasek głodu spada 3x szybciej.",
+	
+	"creation.power.kowogard.honey_yummy.name": "miUd",
+	"creation.power.kowogard.honey_yummy.description": "Butelka z miodem całkowicie regeneruje pasek głodu. Uważaj by się nim nie przejeść!",
+	
+	"creation.power.kowogard.invis.name": "Experymentalna niewidzialność",
+	"creation.power.kowogard.invis.description": "Po aktywacji umiejętności można poprzez wciśnięcie klawisza Shift stać się niewidzialnym przez 60 sekund. Zaatakowanie przeciwnika wiążę się z ujawnieniem!",
+	
+	"creation.power.kowogard.jump_and_speed.name": "Buty Hermesa",
+	"creation.power.kowogard.jump_and_speed.description": "Skakanie na wysokość 5 bloków i szybwiększa prędkość (Speed)\nTo działa jak Cloud Boots, dzięki którym można skakać przez płoty i na drzewa.",
+	
+	"creation.power.kowogard.less_fall_damage.name": "Lądowanie z gracją",
+	"creation.power.kowogard.less_fall_damage.description": "Otrzymujesz mniejsze obrażenia od upadku",
+	
+	"creation.power.kowogard.slow_swimming.name": "Talasofobia",
+	"creation.power.kowogard.slow_swimming.description": "Nie nauczyłeś się pływać!",
+	
+	"creation.power.kuba.fish_in_pond.name": "Ryba w wodzie",
+	"creation.power.kuba.fish_in_pond.description": "Jesteś wyjątkowo zwinny w wodzie, potrafisz wstrzymać oddech na dłużej, niż przeciętny śmiertelnik!",
+	
+	"creation.power.kuba.lava_sensitive.name": "Zimnokrwistość",
+	"creation.power.kuba.lava_sensitive.description": "Nie znosisz wysokich temperatur. Przykładowo temperatury większe niż 100°C mogłaby ci lekko zaszkodzić (szok)!",
+	
+	"creation.power.kuba.super_conductance.name": "Superprzewodność",
+	"creation.power.kuba.super_conductance.description": "Podczas burzy, twoi przeciwnicy są częściej brani jako cel samego Zeusa!",      
+	
+	"creation.power.kuba.water_element.name": "Żywioł: Woda",
+	"creation.power.kuba.water_element.description": "Twoje ataki są mniej skuteczne na byty które są, cóż, wodne.",
+	
+	"creation.power.kuba.water_god_dance.name": "Taniec boga wody",
+	"creation.power.kuba.water_god_dance.description": "Atakowana postać staje się wolniejsza i dostaje efekt paraliżu który zadaje powolne obrażenia, osoba używająca Tańca Boga Wody porusza się znacznie szybciej.",
+	
+	"creation.power.kuba.water_regen.name": "Wodna powłoka",
+	"creation.power.kuba.water_regen.description": "Woda działa na ciebie regenerująco i nie odnosisz obrażeń od podpalenia. Jednakże obrażenia od magii są większe!",
+	
+	"creation.power.kuba.water_whirlpool.name": "Wodny wir",
+	"creation.power.kuba.water_whirlpool.description": "Aktywuj swoje wodne moce. Twoje wzmocnione ataki pozostawiają fale wodne, sprawiające, że twoi wrogowie topią się w powietrzu!\nJednak są one bezużyteczne w gorących miejscach.",
+
+
+
+	
+	"creation.power.marjan.chiropteromorphia.name": "Chiropteromorfia",
+	"creation.power.marjan.chiropteromorphia.description": "Zamiana w nietoperza!",
+	"creation.power.marjan.crafting_spell.name": "Zaklęcie Kreacji",
+	"creation.power.marjan.crafting_spell.description": "Zaklęcie pozwala na tworzenie skomplikowanych rzeczy bez fizycznego stołu!",     
+	"creation.power.marjan.druid_staff.name": "Laska druida",
+	"creation.power.marjan.druid_staff.description": "Zamiast korzystać ze standardowych narzędzi, posługujesz się wielofunkcyjną laską (Tryb korzystania możesz zablokować odpowiednim klawiszem)",
+	"creation.power.marjan.friendly_animals.name": "Symbioza",
+	"creation.power.marjan.friendly_animals.description": "Żyjesz w symbiozie z niektórymi gatunkami zwierząt. Często pomagają ci w walce, do póki ktoś ich nie spłoszy.",
+	"creation.power.marjan.herbivore.name": "Roślinożerca",
+	"creation.power.marjan.herbivore.description": "Jedzenie mięsa cię zabija, dosłownie! (Jesteś wegetarianem, więc chyba to powinno być oczywiste ¯\\_(ツ)_/¯)",
+	"creation.power.marjan.lupomorphia.name": "Lupomorfia",
+	"creation.power.marjan.lupomorphia.description": "Zamiana w wilka!",
+	"creation.power.marjan.morph_bar.name": "Mana",
+	"creation.power.marjan.morph_bar.description": "Potrzebujesz many, żeby używać przemiany w zwierzęta! Jej pasek pokazuje się nad paskiem głodu. Kiedy się napełni, możesz się zmienić w wybrane zwierze. W trakcie przemiany naciśnij [%s], aby z dowolnej formy zmienić się w człowieka.",
+	"creation.power.marjan.no_bed.name": "Na łonie natury",
+	"creation.power.marjan.no_bed.description": "Potrafisz spać na każdej cienkiej, miękkiej powierzchni!",
+	"creation.power.marjan.pacifist.name": "Pacyfista",
+	"creation.power.marjan.pacifist.description": "Masz własne zasady. Nie możesz ranić niewinnych stworzeń, ani mocnych przeciwników.",  
+	"creation.power.marjan.staff_upgrade.name": "Ulepszanie",
+	"creation.power.marjan.staff_upgrade.description": "Możesz ulepszać swoją laskę za pomocą materiałów kolejnego rzędu (%s -> %s -> %s -> %s). Ulepszenia (z wyjątkiem netherytu, za pomocą którego ulepsza się laskę w normalny sposób) dokonuje się poprzez najechanie przedmiotem materiału na różdżkę w ekwipunku i kliknięcie [%s]. Można także zobaczyć stan ulepszenia poprzez użycie laski.",
+	"creation.power.marjan.staff_upgrade.description.material.stone": "kamień",
+	"creation.power.marjan.staff_upgrade.description.material.iron": "żelazo",
+	"creation.power.marjan.staff_upgrade.description.material.diamond": "diament",
+	"creation.power.marjan.staff_upgrade.description.material.netherite": "netheryt",
+	"creation.power.marjan.toggle_lock.name": "Blokada",
+	"creation.power.marjan.toggle_lock.description": "Zablokowanie laski, powoduje, że nie zmienia ona swojego trybu",
+	"creation.power.marjan.triple_effect_durations.name": "Mistrz alchemii",
+	"creation.power.marjan.triple_effect_durations.description": "Mikstury mają trzykrotnie dłuższy czas trwania!",
+	"creation.power.marjan.vulnerable_at_night.name": "Bez osłony nocy",
+	"creation.power.marjan.vulnerable_at_night.description": "W nocy jesteś wrażliwy na ataki.",
+	"creation.power.marjan.wood_apply_effects.name": "Zgodny z naturą",
+	"creation.power.marjan.wood_apply_effects.description": "W pobliżu drzew stajesz się mocniejszy, jednak materiały wykonane z nich cię osłabiają.",
+	"creation.power.marjan.xylophobia.name": "Xylofobia",
+	"creation.power.marjan.xylophobia.description": "Masz paniczny strach przed przedmiotami wykonanymi z drewna!",
+	"creation.power.memes245.canibalism.name": "Kanibalizm",
+	"creation.power.memes245.canibalism.description": "Lubisz podjadać swoje ofiary, zaspokaja to twój demoniczny głód, lecząc rany po walce.",
+	"creation.power.memes245.clairvoyance.name": "Jasnowidzenie",
+	"creation.power.memes245.clairvoyance.description": "Wytężasz swoje mroczne zmysły i wyczuwasz pobliskich przeciwników. Zważ jednal na to, że wytężanie zmysłów ma swoje konsekwencje!",
+	"creation.power.memes245.craft_katana.name": "Katana",
+	"creation.power.memes245.craft_katana.description": "Jesteś tradycyjnym japońskim stworzeniem, więc musisz potrafić posługiwać się tradycyjną japońską kataną, oraz ją wytwarzać.",
+	"creation.power.memes245.dash.name": "Dash",
+	"creation.power.memes245.dash.description": "Dzięki odpowiednio szybkiej pracy nóg, potrafisz wykonać szybki skok w przód, co jednak lekko nadwyręża twoje mięśnie!",
+	"creation.power.memes245.dash.badge.1": "Kliknij dwa razy [%s], aby użyć.",
+	"creation.power.memes245.disfavor.name": "Nieprzychylność",
+	"creation.power.memes245.disfavor.description": "Zdaje się, że lokalsi mogą cię lekko nie lubić :/\nAle nie wszystko stracone. Może, gdy wykażesz się przed nimi bohaterskim czynem, to wtedy powoli się do ciebie przyzwyczają.",
+	"creation.power.memes245.fire.name": "Ogień",
+	"creation.power.memes245.fire.description": "(Wymaga katany)\nAktywuj swoje ogniste moce. Wokół ciebie pojawia się aura ognia i twoje wzmocnione ataki podpalają wrogów. Sam Jetstream by pozazdrościł takiej mocy!",
+	"creation.power.memes245.hydrophobia.name": "Hydrofobia",
+	"creation.power.memes245.hydrophobia.description": "W dużym skrócie, zbiorniki wodne są twoją słabością i nic nie możesz z tym zrobić, więc dobrze Ci radzę, nie wchodź do wody! I lepiej się nie zachłyśnij...",
+	"creation.power.memes245.peace.name": "Spokój",
+	"creation.power.memes245.peace.description": "(Wymaga katany)\nOdpowiednie skupienie, pozwala na refleks szybki jak strzała!",
+	"creation.power.memes245.poison_immunity.name": "Odporność na truciznę",
+	"creation.power.memes245.poison_immunity.description": "\"W końcu jesteś demonem\"",
+	"creation.power.memes245.toggle_shadow_arms.name": "Onitejutsu",
+	"creation.power.memes245.toggle_shadow_arms.description": "Rzuć mroczne zaklęcie i tchnij życie w ciemność. Z jego głębin wychodzą 3 nowe pary rąk, które pomogą Ci w walce!",
+	"creation.power.memes245.water_vulnerable.name": "Wrażliwość na wilgoć",
+	"creation.power.memes245.water_vulnerable.description": "Nie możesz używać ognistych ataków, podczas wystawienia na czynnik wody",    
+	"creation.power.rafi.agility.name": "Zwinność partyzanta",
+	"creation.power.rafi.agility.description": "Potrafisz w szybki sposób przemieszczać się po lesie.",
+	"creation.power.rafi.custom_bows.name": "Łukmistrz",
+	"creation.power.rafi.custom_bows.description": "Potrafisz tworzyć znakomite elfie łuki, przy użyciu odpowiednich materiałów.",        
+	"creation.power.rafi.reduced_hp.name": "Kruche kości",
+	"creation.power.rafi.reduced_hp.description": "Jako elf, jesteś bardziej podatny na obrażenia. Możesz za to przygotowywać specjalne wywary, które dają ci wytrzymałość porównywalną z zwykłym człowiekiem.",
+	"creation.power.rafi.restrict_armor.name": "Lekkie uzbrojenie",
+	"creation.power.rafi.restrict_armor.description": "Nie możesz nosić zbroi cięższych od żelaznych.",
+	"creation.power.rafi.stealth.name": "Kamuflarz",
+	"creation.power.rafi.stealth.description": "Potrafisz bardzo dobrze wtapiać się w otoczenie, jednak wymaga to dużo skupienia i najlepiej działa w bezruchu.",
+	"creation.power.rafi.sturdy_feet.name": "Mocne stopy",
+	"creation.power.rafi.sturdy_feet.description": "Przez leśny tryb życia pośród drzew (i po wielokrotnych upadkach z nich) twoja rasa wyewolułowała sobie stopy odporniejsze na §ofall damage§r. Ale czad!",
+	"creation.power.syriusz.charge.name": "Autodestrukcja",
+	"creation.power.syriusz.charge.description": "Naładuj się, aby wywołać potężną eksplozję (można ją anulować naciskając klawisz [%s]). Eksplozje wypychają cię do przodu podczas biegu i wymagają dużego nakładu energii, którą do następnego użycia musisz odzyskać z pożywienia. Dokonanie lub anulowanie samozniszczenia znacznie wyczerpuje twoje ciało na czas odnowienia, a przy udanej eksplozji.",
+	"creation.power.technicman.deformation.name": "Deformacja ciała",
+	"creation.power.technicman.deformation.description": "Opętane ciało jest przesączone mrocznymi mocami które jednocześnie je wzmacniają jak i deformują w bolesny sposób. Zakładanie zbroi na górną część ciała odpada.",
+	"creation.power.technicman.demon_form.name": "Furia",
+	"creation.power.technicman.demon_form.description.1": "Gdy pasek demonicznej energii jest pełny, sprowokowany demon w końcu się budzi! Niech stwórca ma litość nad tymi, którzy mu się narazili!",
+	"creation.power.technicman.demon_form.description.2": "Zmiany w umiejętnościach:",
+	"creation.power.technicman.demon_form.description.wormhole": "- %s -> %s: natychmiastowa teleportacja do kursora, spory zasięg działania.",
+	"creation.power.technicman.demon_form.description.dark_smite": "- %s -> %s: przywołaj mroczne uderzenie. Wszyscy przeciwnicy w jego zasięgu zaczynają obumierać!",
+	"creation.power.technicman.demon_form.wormhole.name": "Tunel hiperprzestrzenny",
+	"creation.power.technicman.demon_form.dark_smite.name": "Mroczne porażenie",
+	"creation.power.technicman.demonic_energy.name": "Demoniczna energia",
+	"creation.power.technicman.demonic_energy.description": "Twój wewnętrzny demon żywi się demoniczną energią zemsty! Pozyskuje ją on podczas wyrządzania zadośćuczynienia wrogom",
+	"creation.power.technicman.demonic_energy.badge.1": "%s oraz %s wysysają Twoją Demoniczną Energię",
+	"creation.power.technicman.hunger_for_vengence.name": "Głód zemsty",
+	"creation.power.technicman.hunger_for_vengence.description": "Twój wewnętrzny demon nie radzi sobie dobrze z pustym bakiem demonicznej energii! Gdy jest bardzo niska, możesz ją tymczasowo zaspokajać pożerając to, co zostało z twoich przeciwników.",
+	"creation.power.technicman.melting.name": "Niestabilna forma",
+	"creation.power.technicman.melting.description": "Demoniczna substancja pokrywająca twoje ciało łatwo rozpuszcza się w wodzie. Bądź więc, jak twoi koledzy z zamiłowaniem do ryżowych opowieści i za wszelką cenę unikaj kąpieli.",
+	"creation.power.technicman.mensingresion.name": "Mensingresja",
+	"creation.power.technicman.mensingresion.description": "§lPrzeklęte znamie§r: naznacz przeciwnika przeklętym znamieniem, aby móc w dowolnej chwili wejść do jego umysłu!\n\nPonowne aktywowanie umiejętności skutkuje wejściem do jego umysłu! Podczas tego stanu nie jesteś w stanie zbytnio ingerować w otoczenie. Jedynie ty i twoja ofiara jesteście w stanie ze sobą reagować nawzajem! Tylko twoja ofiara cię widzi podczas tego stanu.",
+	"creation.power.technicman.omniscience.name": "Omnisciencja",
+	"creation.power.technicman.omniscience.description": "Znasz co do szczegółu originy i umiejętności innych (bo sam je stworzyłeś lol).",
+	"creation.power.technicman.shadow_teleportation.name": "Widmoportacja",
+	"creation.power.technicman.shadow_teleportation.description": "Przejdź na drugą stronę rzeczywistości zmieniając swoją formę na widmo i podróżuj bez żadnych ograniczeń!\n(Przytrzymaj [%s] podczas aktywacji, aby przeteleportować się w losowe miejsce)",
+	"creation.power.watsug.bfg.name": "Miłośnik zagłady",
+	"creation.power.watsug.bfg.description": "Twoje imię zobowiązuje. Potrafisz wytwarzać oraz obsługiwać broń palną!",
+	"creation.power.watsug.inhuman_strength.name": "Nadludzka siła",
+	"creation.power.watsug.inhuman_strength.description": "Posiadasz nadludzką siłę, jednak twoje olbrzymie bary lekko przeszkadzają ci w poruszaniu się!",
+	"creation.power.watsug.need_more_energy.name": "Wysiłek fizyczny",
+	"creation.power.watsug.need_more_energy.description": "Twoje ataki wymagają dużego nakładu energi. Potrzebujesz więcej żywności, aby odnowić swoje siły witalne."
+}
