@@ -180,65 +180,64 @@
 	"creation.power.blaite.grounded.name": "Elektroujemność",
 	"creation.power.blaite.grounded.description": "Jesteś dobrze uziemiony",
 	
-	"creation.power.blaite.hydration.name": "Dowodnienie",
-	"creation.power.blaite.hydration.description": "Stajesz się jednością ze swoim elementem.",
+	"creation.power.blaite.hydration.name": "Overhydration",
+	"creation.power.blaite.hydration.description": "You become one with your element (when greatly exposed to it).",
 	
-	"creation.power.blaite.laziness.name": "Zmęczenie",
-	"creation.power.blaite.laziness.description": "Jesteś leniwy.",
+	"creation.power.blaite.laziness.name": "Exhaust",
+	"creation.power.blaite.laziness.description": "You are lazy (when hungry)",
 	
-	"creation.power.blaite.mystical_ninja.name": "Militarne techniki półbiegu",
-	"creation.power.blaite.mystical_ninja.description": "Potrafisz szybko się skradać",
+	"creation.power.blaite.mystical_ninja.name": "Mystical Ninja",
+	"creation.power.blaite.mystical_ninja.description": "You can sneak really fast.",
 	
-	"creation.power.blaite.ocarina.name": "Muzyczne solo",
-	"creation.power.blaite.ocarina.description": "Jesteś utalentowanym muzykiem. Połączyć to z twoją CZARNĄ magią, i to staje się dobrym narzędziem wojennym, za koszt doświadczenia.",
+	"creation.power.blaite.ocarina.name": "Music Solo",
+	"creation.power.blaite.ocarina.description": "You are a talented musician. Combine that with your BLACK magic, and it becomes a good weapon, at the cost of experience.",
 	
-	"creation.power.blaite.slingshot.name": "Celne kule",
-	"creation.power.blaite.slingshot.description": "W razie konfrontacji, potrafisz strzelać kulami z procy.",
+	"creation.power.blaite.slingshot.name": "Precise balls",
+	"creation.power.blaite.slingshot.description": "In case of confrontation, you can shoot bullets from your Slingshot.",
 	
-	"creation.power.catandon.autoreplication_system.name": "Samoreplikacja",
-	"creation.power.catandon.autoreplication_system.description": "Jako, że jesteś maszyną. Nie jesteś wstanie się sam naprawiać. Napraw mogą dokonywać tylko i wyłącznie system samoreplikacji nanitów albo fabryka, którą jesteś w stanie stworzyć tylko raz (kliknij na nią, aby aktywować!).",
+	"creation.power.catandon.autoreplication_system.name": "Autoreplication",
+	"creation.power.catandon.autoreplication_system.description": "As you are a machine. You are not able to repair yourself. Repairs can only be done by the %s or the factory, which you can create only one (click on it to activate!).",
 	
-	"creation.power.catandon.cloud_form.name": "Nanitowy skok",
-	"creation.power.catandon.cloud_form.description": "Dzięki nanitom jesteś w stanie zmienić swoją formę. Możesz na krótki dystans zmienić się w chmurę nanitów i przemieścić się w inne miejsce. Dzięki takiej formie możesz przecisnąć się w miejsca, w które normalnie nie byłbyś wstanie (Zużywa część nanitów).",
+	"creation.power.catandon.cloud_form.name": "Nanite Leap",
+	"creation.power.catandon.cloud_form.description": "With nanites you are able to change your form. You can transform into a cloud of nanites and move to another place for a short distance. With this form you can squeeze into places you normally wouldn't be able to.",
+	"creation.power.catandon.cloud_form.badge.1": "The power consumes nanites",
+
+	"creation.power.catandon.diet.name": "Metalhearted",
+	"creation.power.catandon.diet.description": "You are made entirely of metal, you are unable to feed yourself with organic food, you must provide a constant supply of raw materials such as copper, iron or gold to maintain good technical condition.",
 	
-	"creation.power.catandon.diet.name": "Serce z metalu",
-	"creation.power.catandon.diet.description": "Jesteś wykonany całkowicie z metalu, nie jesteś w stanie żywić się w sposób organiczny, musisz dostarczać ciągły zasób surowców typu żelazo lub złoto by utrzymać dobry stan techniczny.",
+	"creation.power.catandon.more_damage_taken.name": "Rusting",
+	"creation.power.catandon.more_damage_taken.description": "Lava, water, fire, and snow deal more damage to you since you have no protection against weather conditions.",
 	
-	"creation.power.catandon.more_damage_taken.name": "Rdzewienie",
-	"creation.power.catandon.more_damage_taken.description": "Lawa, woda, ogień oraz śnieg, zadają ci większe obrażenia, ponieważ nie posiadasz osłony przed warunkami pogodowymi.",
+	"creation.power.catandon.nanite_bar.name": "Nanite Gauge",
+	"creation.power.catandon.nanite_bar.description": "This indicates your nanite charge level.\nCaution: When this bar reaches zero, you become vulnerable to attacks and cannot use skills until the bar fills up again!",
 	
-	"creation.power.catandon.nanite_bar.name": "Wskaźnik nanitów",
-	"creation.power.catandon.nanite_bar.description": "Wskazuje on ilość posiadanych przez ciebie nanitów. Gdy pasek ten spadnie do zera stajesz się podatny na ataki i nie możesz używać umiejętności do póki pasek nie napełni się z powrotem.",
+	"creation.power.catandon.nanite_cloud.name": "Nanite Cloud",
+	"creation.power.catandon.nanite_cloud.description.start": "Nanite Cloud has three modes:",
+	"creation.power.catandon.nanite_cloud.description.mode.active": "- %s: The nanites target the enemy that attacked you. The cloud will also attack the enemy you attack. In this mode, your systems are in combat mode. You gain strength in combat, but it is easy to overload your system.",
+	"creation.power.catandon.nanite_cloud.description.mode.repair": "- %s: Nanites orbit your metal body, protecting key components at the cost of themselves, and are capable of repairing damaged parts.",
+	"creation.power.catandon.nanite_cloud.description.mode.passive": "- %s: n this mode, the cloud is completely hidden. Nanites increase your system's efficiency and physical capabilities.",
+	"creation.power.catandon.nanite_cloud.description.end": "The nanite cloud itself is not large, as the system cannot control such a large number of nanites at once. The nanites are hostile to anything organic, any contact with the cloud will not end well for the opponent. Nanites apply a withering effect and deal damage upon contact with an organic creation/mob.",
 	
-	"creation.power.catandon.nanite_cloud.name": "Nanitowa chmura",
-	"creation.power.catandon.nanite_cloud.description.start": "Nanitowa chmura ma trzy tryby:",
+	"creation.power.catandon.no_regen.name": "Nanite Autoreplication System",
+	"creation.power.catandon.no_regen.description": "As you're a machine, you can't repair yourself by yourself. Repairs to your body can only be done by nanites of the factory. You don't have a passive regeneration, unless you are set in %s mode.",
 	
-	"creation.power.catandon.nanite_cloud.description.mode.active": "- %s: Nanity targetują przeciwnika, który ciebie zaatakował. Chura również zaatakuje przeciwnika, którego ty zaatakujesz (jak pies). W tym trybie twoje systemy są w stanie bojowym. Zyskujesz siłę w walce, ale za to łatwo o przeciążenie systemu.",
-	"creation.power.catandon.nanite_cloud.description.mode.repair": "- %s: Nanity okrążają twoje metaliczne ciało ochraniając ważniejsze komponenty swoim kosztem oraz są wstanie naprawiać uszkodzone części.",
+	"creation.power.jetstream.dash.name": "Dash",
+	"creation.power.jetstream.dash.description": "Just like with the double jump, Jetstream can jump horizontally too!",
 	
-	"creation.power.catandon.nanite_cloud.description.mode.passive": "- %s: W tym trybie chmura jest całkowicie niewidoczna. Nanity zwiększają wydajność twojego systemu oraz podwyższają możliwości fizyczne.",
-	"creation.power.catandon.nanite_cloud.description.end": "Chmura nanitów sama w sobie nie jest duża, ponieważ system nie jest w stanie kontrolować aż tak dużej ilości nanitów naraz. Nanity są wrogo nastawione do wszystkiego co organiczne, każdy kontakt z chmurą nie skończy się dobrze dla oponenta. Nanity po kontakcie z organiczną kreacją/mobem nakładają efekt obumierania i zadają obrażenia.",
+	"creation.power.jetstream.double_jump.name": "Double jump",
+	"creation.power.jetstream.double_jump.description": "Using special Brazilian pseudo-fighting skills, Sam can move his legs in the air with enough force to double jump",
 	
-	"creation.power.catandon.no_regen.name": "Nanitowy system napraw",
-	"creation.power.catandon.no_regen.description": " Jako, że jesteś maszyną. Nie jesteś wstanie się sam naprawiać. Napraw mogą dokonywać tylko i wyłącznie nanity albo fabryka. Nie masz pasywnej regeneracji, chyba, że chmura jest ustawiona w tryb naprawy.",
+	"creation.power.jetstream.enhancements.name": "Cybernetic Enhancements",
+	"creation.power.jetstream.enhancements.description": "Your cybernetic reinforcements, while lightweight, provide great protection, at the cost of not being able to wear armor.",
 	
-	"creation.power.jetstream.dash.name": "Doskok",
-	"creation.power.jetstream.dash.description": "Podobnie z podwójnym skokiem, Jetstream może też skakać w poziomie!",
+	"creation.power.jetstream.high_jump.name": "Higher Jump",
+	"creation.power.jetstream.high_jump.description": "With a bit of cybernetic enhancements and good technique, Sam can jump higher than an average mortal.",
 	
-	"creation.power.jetstream.double_jump.name": "Skos w powietrzu",
-	"creation.power.jetstream.double_jump.description": "Używając specjalnych brazylijskich pseudo umiejętności walki, Sam może poruszać nogami w powietrzu z siłą wystarczającą do podwójnego skoku",
+	"creation.power.jetstream.indulgency.name": "Indulgence",
+	"creation.power.jetstream.indulgency.description": "After killing another player, Sam Jetstream further insults him!",
 	
-	"creation.power.jetstream.enhancements.name": "Cybernetyczne wzmocnienia",
-	"creation.power.jetstream.enhancements.description": "Lekkie cybernetyczne wzmocnienia zapewniają dużą ochronę, kosztem braku możliwości założenia zbroi",
-	
-	"creation.power.jetstream.high_jump.name": "Silne nogi",
-	"creation.power.jetstream.high_jump.description": "Dzięki lekkim cybernetycznym wzmocnieniom i dobrej technice Sam może wyzkoczyć wyżej niż standardowy śmiertelnik",
-	
-	"creation.power.jetstream.indulgency.name": "Pobłażliwość",
-	"creation.power.jetstream.indulgency.description": "Po zabiciu innego gracza, Sam Jetstream dodatkowo mu ubliża!",
-	
-	"creation.power.jetstream.no_regen.name": "Sztuczne ciało",
-	"creation.power.jetstream.no_regen.description": "Fakt, że jesteś przecież połowicznie cyborgiem sprawia, że uszkodzone części nie regenerują się tak prosto tak ciało!",
+	"creation.power.jetstream.no_regen.name": "Artificial body",
+	"creation.power.jetstream.no_regen.description": "The fact that you are half-cyborg means that damaged parts don't regenerate as easily as an organic body!",
 	
 	"creation.power.jetstream.speed.name": "Cybordże nogi",
 	"creation.power.jetstream.speed.description": "Dzięki cybernetycznym wzmocnieniom jesteś szybki, jakbyś od urodzenia nie opuścił żadnego dnia nóżek.",
@@ -246,107 +245,104 @@
 	"creation.power.jetstream.strong_legs.name": "Mocne nogi",
 	"creation.power.jetstream.strong_legs.description": "Dzięki lekkim cybernetycznym wzmocnieniom i dobrej technice lądowania Sam nie odnosi obrażeń od upadku! §n(SHIFT)",
 	
-	"creation.power.jetstream.taunt.name": "Prowokacja",
-	"creation.power.jetstream.taunt.description": "J Sam rzuca obelgą we wroga, wkurzając go i sprawiając że opuszcza gardę (działa tylko na wrogie moby)",
+	"creation.power.jetstream.taunt.name": "Taunt",
+	"creation.power.jetstream.taunt.description": "J Sam throws an insult at an enemy, pissing them off and causing them to lower their guard (only works on hostile mobs and players)",
 	
-	"creation.power.kakti.calibration.name": "Kalibracja",
-	"creation.power.kakti.calibration.description": "Sculkowe sensory są skalibrowane pod twoje kroki, i potrafią je dobrze odróżnić od kroków innych stworzeń!",
+	"creation.power.kakti.calibration.name": "Calibration",
+	"creation.power.kakti.calibration.description": "Sculk's sensors are calibrated to your footsteps, and can recognize them as friendly unlike the footsteps of other creatures!",
 	
-	"creation.power.kakti.echolocation.name": "Echolokacja",
-	"creation.power.kakti.echolocation.description": "Posługujesz się echolokacją! Używasz jej jednocześnie do wykrywania potencjalnych wrogów oraz do walki z nimi!\n(Przytrzymaj [%s], aby skorzystać z tego drugiego typu umiejętności).",
+	"creation.power.kakti.echolocation.name": "Echolocation",
+	"creation.power.kakti.echolocation.description": "You use echolocation! You use it to both detect potential enemies and fight them!\n(Hold [%s] to use the latter.)",
 	
-	"creation.power.kakti.exp_regen.name": "Penitiakuracja",
-	"creation.power.kakti.exp_regen.description": "Twoje ciało pokrywa długowieczny sculk, który nie regeneruje się w łatwy sposób. Potrzebne jest duże doświadczenie, aby opanować technikę leczenia!",
+	"creation.power.kakti.exp_regen.name": "Penitiacuration",
+	"creation.power.kakti.exp_regen.description": "Your body is covered with a long-lived sculk that does not regenerate easily. It takes a lot of experience to master the healing technique!",
 	
-	"creation.power.kakti.eye_sensitivity.name": "Wrażliwe ślepia",
-	"creation.power.kakti.eye_sensitivity.description": "Masz nadwrażliwość wzroku na światło słoneczne (to pewnie przez to ciągłe przebywanie w ciemnych miejscach!) Może czapka z daszkiem mogłaby trochę pomóc?",
+	"creation.power.kakti.eye_sensitivity.name": "Eye sensitivity",
+	"creation.power.kakti.eye_sensitivity.description": "Your eyesight is hypersensitive to sunlight (it's probably from all that time spent in the darkness!). Maybe a nice hat would help a little?",
 	
-	"creation.power.kakti.intangibility.name": "Bezcielestność",
-	"creation.power.kakti.intangibility.description": "Scolkowa forma pozwala na przenikanie przez bloki!",
+	"creation.power.kakti.intangibility.name": "Intangibility",
+	"creation.power.kakti.intangibility.description": "Sculk form enables you to phase through the walls!",
 	
-	"creation.power.kakti.interference.name": "Interferencja",
-	"creation.power.kakti.interference.description": "Drgania wytwarzane przez sculkowe obiekty działają na Ciebie wzmacniająco, jednak szybko się od nich uzależniasz",
+	"creation.power.kakti.interference.name": "Interference",
+	"creation.power.kakti.interference.description": "The vibrations produced by sculk objects have a strengthening effect on you, but you quickly become addicted to them",
 	
-	"creation.power.kakti.resonance.name": "Rezonans",
-	"creation.power.kakti.resonance.description": "Przebywanie głęboko pod ziemią oraz wibracje pobliskiego rodzimego sculku powoli wprawiają cię w rezonans. Stan rezonansu umożliwia Ci panowanie nad twoimi sculkowymi umiejętnościami.",
-	"creation.power.kakti.resonance.badge.1": "Jest zużywany przez umiejętności: %s oraz %s",
+	"creation.power.kakti.resonance.name": "Resonance",
+	"creation.power.kakti.resonance.description": "Being deep underground and the vibrations of your nearby native sculk slowly cause you to resonate. This state of resonance allows you to control your sculk abilities.",
+	"creation.power.kakti.resonance.badge.1": "The bar is drained by: %s and %s",
 	
-	"creation.power.kakti.sculk_look.name": "Sculkowe oblicze",
-	"creation.power.kakti.sculk_look.description": "Jak by nie patrzeć, wyglądasz i śmierdzisz jak głębinowa istota. Oczywistym jest więc, że niektóre potwory będą czuły w tobie kogoś przyjaznego (a niektóre nie)!",
+	"creation.power.kakti.sculk_look.name": "Sculk look",
+	"creation.power.kakti.sculk_look.description": "No matter how you look at it, you look and smell like a deep creature. So it stands to reason that some specific creatures will find you friendly (and some specific won't)!",
 	
-	"creation.power.kakti.sculk_nature.name": "Sculkowa natura",
-	"creation.power.kakti.sculk_nature.description": "Nie możesz się oprzeć sporadycznemu dawaniu usustu swojej sculkowej naturze!",      
+	"creation.power.kakti.sculk_nature.name": "Sculk nature",
+	"creation.power.kakti.sculk_nature.description": "You can't giving vent your sculkin nature every now and then!",      
 	
-	"creation.power.kakti.small_size.name": "Mały rozmiar",
-	"creation.power.kakti.small_size.description": "Przebywanie pod ziemią całe życie sprawiło, że na drodze ewolucji masz mały rozmiar oraz mniej krwi, a co za tym idzie: szybciej się wykrwawisz!",
+	"creation.power.kakti.small_size.name": "Small size",
+	"creation.power.kakti.small_size.description": "Spending your entire life underground has caused you to evolve your body to be smalles and have less blood, which means you'll bleed out faster!",
 	
-	"creation.power.konti.better_food_regen.name": "Nasycenie",
-	"creation.power.konti.better_food_regen.description": "Jedzenie regeneruje Ci więcej zdrowia",
+	"creation.power.konti.better_food_regen.name": "Saturation",
+	"creation.power.konti.better_food_regen.description": "Food regenerates more health for you",
 	
-	"creation.power.konti.damage_reduction.name": "Zaklęta zbroja",
-	"creation.power.konti.damage_reduction.description": "Odporność na ogień i wybuchy",
+	"creation.power.konti.damage_reduction.name": "Enchanted armor",
+	"creation.power.konti.damage_reduction.description": "Fire and blast resistance",
 	
-	"creation.power.konti.double_damage.name": "Potężne ciosy",
-	"creation.power.konti.double_damage.description": "Po aktywowaniu podpalasz wysztkich przeciwników promieniu 6 bloków i zadajesz podwójdne obrażenia (przy mniejszej prędkości ataków)",
+	"creation.power.konti.double_damage.name": "Powerful blows",
+	"creation.power.konti.double_damage.description": "When activated, you set all enemies in a 6-block radius on fire and deal double damage (with reduced attack speed)",
 	
-	"creation.power.konti.more_arrow_damage.name": "Kulo(nie)odporny",
-	"creation.power.konti.more_arrow_damage.description": "Dostajesz większe obrażenia od zwykłych strzał jak i tych z efektami",
+	"creation.power.konti.more_arrow_damage.name": "Bullet(not)proof",
+	"creation.power.konti.more_arrow_damage.description": "You take more damage from both regular arrows and those with effects.",
 	
-	"creation.power.konti.skeleton_kill_penalty.name": "Godność",
-	"creation.power.konti.skeleton_kill_penalty.description": "Krzywdzenie swoich przyjaciół rani twoje szlachetne serce i w dużej mierze Cię brzydzi.",
+	"creation.power.konti.skeleton_kill_penalty.name": "Dignity",
+	"creation.power.konti.skeleton_kill_penalty.description": "Hurting your friends hurts your noble heart and disgusts you to a great extent.",
 	
-	"creation.power.konti.summon_skeletons.name": "Nekromancja",
-	"creation.power.konti.summon_skeletons.description": "Użyj czarnej magii i przyzwij z zaświatów 4 poległych rycerzy, którzy staną u twoim boku (uważaj, aby nie przerwać zaklęcia).",
+	"creation.power.konti.summon_skeletons.name": "Nectromation",
+	"creation.power.konti.summon_skeletons.description": "Use dark magic and summon 4 fallen knights from the other side to stand by your side (be careful not to interrupt the spell).",
 	
-	"creation.power.kowogard.crafting_table.name": "Sprawny rzemieślnik",
-	"creation.power.kowogard.crafting_table.description": "Jesteś zawsze gotowy do craftowania, co jest dość imponujące, bo wymaga dużego doświadczenia.",
+	"creation.power.kowogard.crafting_table.name": "Skilled Craftsman",
+	"creation.power.kowogard.crafting_table.description": "You are always ready to craft, which is quite impressive because it requires a lot of experience (literally).",
 	
-	"creation.power.kowogard.creeper_allies.name": "Pokój z oddziałem saperskim!",
-	"creation.power.kowogard.creeper_allies.description": "Creepery są wobec Ciebie neutralne (ale nie pasywne!)",
+	"creation.power.kowogard.creeper_allies.name": "Peace with sapper squad!",
+	"creation.power.kowogard.creeper_allies.description": "Creepers are neutral (but not passive!)",
 	
-	"creation.power.kowogard.exhaust.name": "Głodny przygód",
-	"creation.power.kowogard.exhaust.description": "Twój pasek głodu spada 3x szybciej.",
+	"creation.power.kowogard.exhaust.name": "Hungry for adventure",
+	"creation.power.kowogard.exhaust.description": "Your hunger bar is drained 3 times faster.",
 	
-	"creation.power.kowogard.honey_yummy.name": "miUd",
-	"creation.power.kowogard.honey_yummy.description": "Butelka z miodem całkowicie regeneruje pasek głodu. Uważaj by się nim nie przejeść!",
+	"creation.power.kowogard.honey_yummy.name": "HUNi",
+	"creation.power.kowogard.honey_yummy.description": "Honey Bottle completely regenerates your hunger bar. Be careful not to overeat!",
 	
-	"creation.power.kowogard.invis.name": "Experymentalna niewidzialność",
-	"creation.power.kowogard.invis.description": "Po aktywacji umiejętności można poprzez wciśnięcie klawisza Shift stać się niewidzialnym przez 60 sekund. Zaatakowanie przeciwnika wiążę się z ujawnieniem!",
+	"creation.power.kowogard.invis.name": "Experimental invisibility",
+	"creation.power.kowogard.invis.description": "After activating the skill, you can become invisible for up to 60 seconds by pressing the Shift key. Attacking an enemy will result in revealing yourself!",
 	
-	"creation.power.kowogard.jump_and_speed.name": "Buty Hermesa",
-	"creation.power.kowogard.jump_and_speed.description": "Skakanie na wysokość 5 bloków i szybwiększa prędkość (Speed)\nTo działa jak Cloud Boots, dzięki którym można skakać przez płoty i na drzewa.",
+	"creation.power.kowogard.jump_and_speed.name": "Hermes Shoes",
+	"creation.power.kowogard.jump_and_speed.description": "Jumping 5 blocks high and up windows increases speed\nThis works like Cloud Boots, allowing you to jump over fences and onto trees.",
 	
-	"creation.power.kowogard.less_fall_damage.name": "Lądowanie z gracją",
-	"creation.power.kowogard.less_fall_damage.description": "Otrzymujesz mniejsze obrażenia od upadku",
+	"creation.power.kowogard.less_fall_damage.name": "Landing with grace",
+	"creation.power.kowogard.less_fall_damage.description": "You take less damage from falling.",
 	
-	"creation.power.kowogard.slow_swimming.name": "Talasofobia",
-	"creation.power.kowogard.slow_swimming.description": "Nie nauczyłeś się pływać!",
+	"creation.power.kowogard.slow_swimming.name": "Thalassophobia",
+	"creation.power.kowogard.slow_swimming.description": "You didn't learn how to swim properly!",
 	
-	"creation.power.kuba.fish_in_pond.name": "Ryba w wodzie",
-	"creation.power.kuba.fish_in_pond.description": "Jesteś wyjątkowo zwinny w wodzie, potrafisz wstrzymać oddech na dłużej, niż przeciętny śmiertelnik!",
+	"creation.power.kuba.fish_in_pond.name": "Fish in pond",
+	"creation.power.kuba.fish_in_pond.description": "You are able to hold your breath longer than the average mortal!",
 	
-	"creation.power.kuba.lava_sensitive.name": "Zimnokrwistość",
-	"creation.power.kuba.lava_sensitive.description": "Nie znosisz wysokich temperatur. Przykładowo temperatury większe niż 100°C mogłaby ci lekko zaszkodzić (szok)!",
+	"creation.power.kuba.lava_sensitive.name": "Cold-blooded",
+	"creation.power.kuba.lava_sensitive.description": "You can't stand high temperatures. For example, temperatures above point of melting rocks could harm you slightly (shock)!",
 	
-	"creation.power.kuba.super_conductance.name": "Superprzewodność",
-	"creation.power.kuba.super_conductance.description": "Podczas burzy, twoi przeciwnicy są częściej brani jako cel samego Zeusa!",      
+	"creation.power.kuba.super_conductance.name": "Super Conductance",
+	"creation.power.kuba.super_conductance.description": "During the storm, your enemies are more likely to be targeted by the god Zeus himself!",      
 	
-	"creation.power.kuba.water_element.name": "Żywioł: Woda",
-	"creation.power.kuba.water_element.description": "Twoje ataki są mniej skuteczne na byty które są, cóż, wodne.",
+	"creation.power.kuba.water_element.name": "Element: Water",
+	"creation.power.kuba.water_element.description": "Your attacks are less effective against entities that are, well, water-like.",
 	
-	"creation.power.kuba.water_god_dance.name": "Taniec boga wody",
-	"creation.power.kuba.water_god_dance.description": "Atakowana postać staje się wolniejsza i dostaje efekt paraliżu który zadaje powolne obrażenia, osoba używająca Tańca Boga Wody porusza się znacznie szybciej.",
+	"creation.power.kuba.water_god_dance.name": "Water God Dance",
+	"creation.power.kuba.water_god_dance.description": "The attacked character becomes slower and gains a paralysis effect that deals slow damage, the person using Water God's Dance moves much faster.",
 	
-	"creation.power.kuba.water_regen.name": "Wodna powłoka",
-	"creation.power.kuba.water_regen.description": "Woda działa na ciebie regenerująco i nie odnosisz obrażeń od podpalenia. Jednakże obrażenia od magii są większe!",
+	"creation.power.kuba.water_regen.name": "Water coating",
+	"creation.power.kuba.water_regen.description": "Water has a regenerative effect on you and you take no burn damage. However, magic damage is increased!",
 	
-	"creation.power.kuba.water_whirlpool.name": "Wodny wir",
-	"creation.power.kuba.water_whirlpool.description": "Aktywuj swoje wodne moce. Twoje wzmocnione ataki pozostawiają fale wodne, sprawiające, że twoi wrogowie topią się w powietrzu!\nJednak są one bezużyteczne w gorących miejscach.",
+	"creation.power.kuba.water_whirlpool.name": "Water Whirlpool",
+	"creation.power.kuba.water_whirlpool.description": "Activate your water powers. Your empowered attacks leave behind waves of water, causing your enemies to drown even though outside of the water!\nHowever, they are useless in hot places.",
 
-
-
-	
-	"creation.power.marjan.chiropteromorphia.name": "Chiropteromorfia",
+	"creation.power.marjan.chiropteromorphia.name": "Chiropteromorphia",
 	"creation.power.marjan.chiropteromorphia.description": "Zamiana w nietoperza!",
 	"creation.power.marjan.crafting_spell.name": "Zaklęcie Kreacji",
 	"creation.power.marjan.crafting_spell.description": "Zaklęcie pozwala na tworzenie skomplikowanych rzeczy bez fizycznego stołu!",     
