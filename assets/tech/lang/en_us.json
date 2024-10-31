@@ -343,78 +343,112 @@
 	"creation.power.kuba.water_whirlpool.description": "Activate your water powers. Your empowered attacks leave behind waves of water, causing your enemies to drown even though outside of the water!\nHowever, they are useless in hot places.",
 
 	"creation.power.marjan.chiropteromorphia.name": "Chiropteromorphia",
-	"creation.power.marjan.chiropteromorphia.description": "Zamiana w nietoperza!",
-	"creation.power.marjan.crafting_spell.name": "Zaklęcie Kreacji",
-	"creation.power.marjan.crafting_spell.description": "Zaklęcie pozwala na tworzenie skomplikowanych rzeczy bez fizycznego stołu!",     
-	"creation.power.marjan.druid_staff.name": "Laska druida",
-	"creation.power.marjan.druid_staff.description": "Zamiast korzystać ze standardowych narzędzi, posługujesz się wielofunkcyjną laską (Tryb korzystania możesz zablokować odpowiednim klawiszem)",
-	"creation.power.marjan.friendly_animals.name": "Symbioza",
-	"creation.power.marjan.friendly_animals.description": "Żyjesz w symbiozie z niektórymi gatunkami zwierząt. Często pomagają ci w walce, do póki ktoś ich nie spłoszy.",
-	"creation.power.marjan.herbivore.name": "Roślinożerca",
-	"creation.power.marjan.herbivore.description": "Jedzenie mięsa cię zabija, dosłownie! (Jesteś wegetarianem, więc chyba to powinno być oczywiste ¯\\_(ツ)_/¯)",
-	"creation.power.marjan.lupomorphia.name": "Lupomorfia",
-	"creation.power.marjan.lupomorphia.description": "Zamiana w wilka!",
-	"creation.power.marjan.morph_bar.name": "Mana",
-	"creation.power.marjan.morph_bar.description": "Potrzebujesz many, żeby używać przemiany w zwierzęta! Jej pasek pokazuje się nad paskiem głodu. Kiedy się napełni, możesz się zmienić w wybrane zwierze. W trakcie przemiany naciśnij [%s], aby z dowolnej formy zmienić się w człowieka.",
-	"creation.power.marjan.no_bed.name": "Na łonie natury",
-	"creation.power.marjan.no_bed.description": "Potrafisz spać na każdej cienkiej, miękkiej powierzchni!",
-	"creation.power.marjan.pacifist.name": "Pacyfista",
-	"creation.power.marjan.pacifist.description": "Masz własne zasady. Nie możesz ranić niewinnych stworzeń, ani mocnych przeciwników.",  
-	"creation.power.marjan.staff_upgrade.name": "Ulepszanie",
-	"creation.power.marjan.staff_upgrade.description": "Możesz ulepszać swoją laskę za pomocą materiałów kolejnego rzędu (%s -> %s -> %s -> %s). Ulepszenia (z wyjątkiem netherytu, za pomocą którego ulepsza się laskę w normalny sposób) dokonuje się poprzez najechanie przedmiotem materiału na różdżkę w ekwipunku i kliknięcie [%s]. Można także zobaczyć stan ulepszenia poprzez użycie laski.",
-	"creation.power.marjan.staff_upgrade.description.material.stone": "kamień",
-	"creation.power.marjan.staff_upgrade.description.material.iron": "żelazo",
-	"creation.power.marjan.staff_upgrade.description.material.diamond": "diament",
-	"creation.power.marjan.staff_upgrade.description.material.netherite": "netheryt",
-	"creation.power.marjan.toggle_lock.name": "Blokada",
-	"creation.power.marjan.toggle_lock.description": "Zablokowanie laski, powoduje, że nie zmienia ona swojego trybu",
-	"creation.power.marjan.triple_effect_durations.name": "Mistrz alchemii",
-	"creation.power.marjan.triple_effect_durations.description": "Mikstury mają trzykrotnie dłuższy czas trwania!",
-	"creation.power.marjan.vulnerable_at_night.name": "Bez osłony nocy",
-	"creation.power.marjan.vulnerable_at_night.description": "W nocy jesteś wrażliwy na ataki.",
-	"creation.power.marjan.wood_apply_effects.name": "Zgodny z naturą",
-	"creation.power.marjan.wood_apply_effects.description": "W pobliżu drzew stajesz się mocniejszy, jednak materiały wykonane z nich cię osłabiają.",
-	"creation.power.marjan.xylophobia.name": "Xylofobia",
-	"creation.power.marjan.xylophobia.description": "Masz paniczny strach przed przedmiotami wykonanymi z drewna!",
+	"creation.power.marjan.chiropteromorphia.description": "You can change into a bat!",
+	
+	"creation.power.marjan.crafting_spell.name": "Spell of Creation",
+	"creation.power.marjan.crafting_spell.description": "The spell allows you to create complex things without a physical crafting table!",     
+	
+	"creation.power.marjan.druid_staff.name": "Druid Staff",
+	"creation.power.marjan.druid_staff.description": "Instead of using standard tools, you use a multifunctional stick (you can lock changing modes with the key specified in the badge hint)",
+	
+	"creation.power.marjan.friendly_animals.name": "Symbiosis",
+	"creation.power.marjan.friendly_animals.description": "You live in symbiosis with certain species of animals. They often help you in battle until someone scares them away.",
+	
+	"creation.power.marjan.herbivore.name": "Herbivore",
+	"creation.power.marjan.herbivore.description": "Eating meat kills you, literally! (You're a vegetarian, so I guess that should be obvious ¯\\_(ツ)_/¯)",
+	
+	"creation.power.marjan.lupomorphia.name": "Lupomorphia",
+	"creation.power.marjan.lupomorphia.description": "You can change into a wolf as well!",
+	
+	"creation.power.marjan.morph_bar.name": "Morph Mana",
+	"creation.power.marjan.morph_bar.description": "You need mana to use animal transformation! The mana bar appears above the hunger bar. When full, you can transform into an animal of your choice. While transforming, press [%s] to transform back into human from any form.",
+	
+	"creation.power.marjan.no_bed.name": "In the bosom of nature",
+	"creation.power.marjan.no_bed.description": "You can sleep on any thin and soft surface!",
+	
+	"creation.power.marjan.pacifist.name": "Pacifist",
+	"creation.power.marjan.pacifist.description": "You have your own rules. You can't hurt innocent creatures or strong opponents.",  
+	
+	"creation.power.marjan.staff_upgrade.name": "Upgrade",
+	"creation.power.marjan.staff_upgrade.description": "You can upgrade your staff using materials of the next tier (%s -> %s -> %s -> %s). Upgrading (except netherite, with which you can upgrade your staff just by using the smithing table) is done by hovering the material item over the staff in your inventory and clicking [%s]. You can also view the upgrade status by using the staff.",
+	"creation.power.marjan.staff_upgrade.description.material.stone": "stone",
+	"creation.power.marjan.staff_upgrade.description.material.iron": "iron",
+	"creation.power.marjan.staff_upgrade.description.material.diamond": "diamond",
+	"creation.power.marjan.staff_upgrade.description.material.netherite": "netherite",
+	
+	"creation.power.marjan.toggle_lock.name": "Lock",
+	"creation.power.marjan.toggle_lock.description": "Locking the staff prevents it from changing its mode",
+	
+	"creation.power.marjan.triple_effect_durations.name": "Master of Alchemy",
+	"creation.power.marjan.triple_effect_durations.description": "Potions last three times longer!",
+	
+	"creation.power.marjan.vulnerable_at_night.name": "Lunar weakness",
+	"creation.power.marjan.vulnerable_at_night.description": "You are vulnerable to attacks at night.",
+	
+	"creation.power.marjan.wood_apply_effects.name": "In harmony with nature",
+	"creation.power.marjan.wood_apply_effects.description": "You become stronger near trees, but materials made from them weaken you.",
+	
+	"creation.power.marjan.xylophobia.name": "Xylophobia",
+	"creation.power.marjan.xylophobia.description": "You have a panic fear of objects made of wood!",
+	
 	"creation.power.memes245.canibalism.name": "Kanibalizm",
 	"creation.power.memes245.canibalism.description": "Lubisz podjadać swoje ofiary, zaspokaja to twój demoniczny głód, lecząc rany po walce.",
+	
 	"creation.power.memes245.clairvoyance.name": "Jasnowidzenie",
 	"creation.power.memes245.clairvoyance.description": "Wytężasz swoje mroczne zmysły i wyczuwasz pobliskich przeciwników. Zważ jednal na to, że wytężanie zmysłów ma swoje konsekwencje!",
+	
 	"creation.power.memes245.craft_katana.name": "Katana",
 	"creation.power.memes245.craft_katana.description": "Jesteś tradycyjnym japońskim stworzeniem, więc musisz potrafić posługiwać się tradycyjną japońską kataną, oraz ją wytwarzać.",
+	
 	"creation.power.memes245.dash.name": "Dash",
 	"creation.power.memes245.dash.description": "Dzięki odpowiednio szybkiej pracy nóg, potrafisz wykonać szybki skok w przód, co jednak lekko nadwyręża twoje mięśnie!",
 	"creation.power.memes245.dash.badge.1": "Kliknij dwa razy [%s], aby użyć.",
+	
 	"creation.power.memes245.disfavor.name": "Nieprzychylność",
 	"creation.power.memes245.disfavor.description": "Zdaje się, że lokalsi mogą cię lekko nie lubić :/\nAle nie wszystko stracone. Może, gdy wykażesz się przed nimi bohaterskim czynem, to wtedy powoli się do ciebie przyzwyczają.",
+	
 	"creation.power.memes245.fire.name": "Ogień",
 	"creation.power.memes245.fire.description": "(Wymaga katany)\nAktywuj swoje ogniste moce. Wokół ciebie pojawia się aura ognia i twoje wzmocnione ataki podpalają wrogów. Sam Jetstream by pozazdrościł takiej mocy!",
+	
 	"creation.power.memes245.hydrophobia.name": "Hydrofobia",
 	"creation.power.memes245.hydrophobia.description": "W dużym skrócie, zbiorniki wodne są twoją słabością i nic nie możesz z tym zrobić, więc dobrze Ci radzę, nie wchodź do wody! I lepiej się nie zachłyśnij...",
+	
 	"creation.power.memes245.peace.name": "Spokój",
 	"creation.power.memes245.peace.description": "(Wymaga katany)\nOdpowiednie skupienie, pozwala na refleks szybki jak strzała!",
+	
 	"creation.power.memes245.poison_immunity.name": "Odporność na truciznę",
 	"creation.power.memes245.poison_immunity.description": "\"W końcu jesteś demonem\"",
+	
 	"creation.power.memes245.toggle_shadow_arms.name": "Onitejutsu",
 	"creation.power.memes245.toggle_shadow_arms.description": "Rzuć mroczne zaklęcie i tchnij życie w ciemność. Z jego głębin wychodzą 3 nowe pary rąk, które pomogą Ci w walce!",
+	
 	"creation.power.memes245.water_vulnerable.name": "Wrażliwość na wilgoć",
 	"creation.power.memes245.water_vulnerable.description": "Nie możesz używać ognistych ataków, podczas wystawienia na czynnik wody",    
+	
 	"creation.power.rafi.agility.name": "Zwinność partyzanta",
 	"creation.power.rafi.agility.description": "Potrafisz w szybki sposób przemieszczać się po lesie.",
+	
 	"creation.power.rafi.custom_bows.name": "Łukmistrz",
 	"creation.power.rafi.custom_bows.description": "Potrafisz tworzyć znakomite elfie łuki, przy użyciu odpowiednich materiałów.",        
+	
 	"creation.power.rafi.reduced_hp.name": "Kruche kości",
 	"creation.power.rafi.reduced_hp.description": "Jako elf, jesteś bardziej podatny na obrażenia. Możesz za to przygotowywać specjalne wywary, które dają ci wytrzymałość porównywalną z zwykłym człowiekiem.",
+	
 	"creation.power.rafi.restrict_armor.name": "Lekkie uzbrojenie",
 	"creation.power.rafi.restrict_armor.description": "Nie możesz nosić zbroi cięższych od żelaznych.",
+	
 	"creation.power.rafi.stealth.name": "Kamuflarz",
 	"creation.power.rafi.stealth.description": "Potrafisz bardzo dobrze wtapiać się w otoczenie, jednak wymaga to dużo skupienia i najlepiej działa w bezruchu.",
+	
 	"creation.power.rafi.sturdy_feet.name": "Mocne stopy",
 	"creation.power.rafi.sturdy_feet.description": "Przez leśny tryb życia pośród drzew (i po wielokrotnych upadkach z nich) twoja rasa wyewolułowała sobie stopy odporniejsze na §ofall damage§r. Ale czad!",
+	
 	"creation.power.syriusz.charge.name": "Autodestrukcja",
 	"creation.power.syriusz.charge.description": "Naładuj się, aby wywołać potężną eksplozję (można ją anulować naciskając klawisz [%s]). Eksplozje wypychają cię do przodu podczas biegu i wymagają dużego nakładu energii, którą do następnego użycia musisz odzyskać z pożywienia. Dokonanie lub anulowanie samozniszczenia znacznie wyczerpuje twoje ciało na czas odnowienia, a przy udanej eksplozji.",
+	
 	"creation.power.technicman.deformation.name": "Deformacja ciała",
 	"creation.power.technicman.deformation.description": "Opętane ciało jest przesączone mrocznymi mocami które jednocześnie je wzmacniają jak i deformują w bolesny sposób. Zakładanie zbroi na górną część ciała odpada.",
+	
 	"creation.power.technicman.demon_form.name": "Furia",
 	"creation.power.technicman.demon_form.description.1": "Gdy pasek demonicznej energii jest pełny, sprowokowany demon w końcu się budzi! Niech stwórca ma litość nad tymi, którzy mu się narazili!",
 	"creation.power.technicman.demon_form.description.2": "Zmiany w umiejętnościach:",
@@ -422,23 +456,32 @@
 	"creation.power.technicman.demon_form.description.dark_smite": "- %s -> %s: przywołaj mroczne uderzenie. Wszyscy przeciwnicy w jego zasięgu zaczynają obumierać!",
 	"creation.power.technicman.demon_form.wormhole.name": "Tunel hiperprzestrzenny",
 	"creation.power.technicman.demon_form.dark_smite.name": "Mroczne porażenie",
+	
 	"creation.power.technicman.demonic_energy.name": "Demoniczna energia",
 	"creation.power.technicman.demonic_energy.description": "Twój wewnętrzny demon żywi się demoniczną energią zemsty! Pozyskuje ją on podczas wyrządzania zadośćuczynienia wrogom",
 	"creation.power.technicman.demonic_energy.badge.1": "%s oraz %s wysysają Twoją Demoniczną Energię",
+	
 	"creation.power.technicman.hunger_for_vengence.name": "Głód zemsty",
 	"creation.power.technicman.hunger_for_vengence.description": "Twój wewnętrzny demon nie radzi sobie dobrze z pustym bakiem demonicznej energii! Gdy jest bardzo niska, możesz ją tymczasowo zaspokajać pożerając to, co zostało z twoich przeciwników.",
+	
 	"creation.power.technicman.melting.name": "Niestabilna forma",
 	"creation.power.technicman.melting.description": "Demoniczna substancja pokrywająca twoje ciało łatwo rozpuszcza się w wodzie. Bądź więc, jak twoi koledzy z zamiłowaniem do ryżowych opowieści i za wszelką cenę unikaj kąpieli.",
+	
 	"creation.power.technicman.mensingresion.name": "Mensingresja",
 	"creation.power.technicman.mensingresion.description": "§lPrzeklęte znamie§r: naznacz przeciwnika przeklętym znamieniem, aby móc w dowolnej chwili wejść do jego umysłu!\n\nPonowne aktywowanie umiejętności skutkuje wejściem do jego umysłu! Podczas tego stanu nie jesteś w stanie zbytnio ingerować w otoczenie. Jedynie ty i twoja ofiara jesteście w stanie ze sobą reagować nawzajem! Tylko twoja ofiara cię widzi podczas tego stanu.",
+	
 	"creation.power.technicman.omniscience.name": "Omnisciencja",
 	"creation.power.technicman.omniscience.description": "Znasz co do szczegółu originy i umiejętności innych (bo sam je stworzyłeś lol).",
+	
 	"creation.power.technicman.shadow_teleportation.name": "Widmoportacja",
 	"creation.power.technicman.shadow_teleportation.description": "Przejdź na drugą stronę rzeczywistości zmieniając swoją formę na widmo i podróżuj bez żadnych ograniczeń!\n(Przytrzymaj [%s] podczas aktywacji, aby przeteleportować się w losowe miejsce)",
+	
 	"creation.power.watsug.bfg.name": "Miłośnik zagłady",
 	"creation.power.watsug.bfg.description": "Twoje imię zobowiązuje. Potrafisz wytwarzać oraz obsługiwać broń palną!",
+	
 	"creation.power.watsug.inhuman_strength.name": "Nadludzka siła",
 	"creation.power.watsug.inhuman_strength.description": "Posiadasz nadludzką siłę, jednak twoje olbrzymie bary lekko przeszkadzają ci w poruszaniu się!",
+	
 	"creation.power.watsug.need_more_energy.name": "Wysiłek fizyczny",
 	"creation.power.watsug.need_more_energy.description": "Twoje ataki wymagają dużego nakładu energi. Potrzebujesz więcej żywności, aby odnowić swoje siły witalne."
 }
