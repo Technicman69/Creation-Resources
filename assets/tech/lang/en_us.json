@@ -152,33 +152,33 @@
 	"creation.power.bartolonii.meat_bad.name": "Veganism",
 	"creation.power.bartolonii.meat_bad.description": "Taste of meat disgusts you",
 	
-	"creation.power.bartolonii.more_wood_crafting.name": "Naturalne Zasoby",
-	"creation.power.bartolonii.more_wood_crafting.description": "Potrafisz wytwarzać więcej i lepszej jakości rzeczy, z drewna.",
+	"creation.power.bartolonii.more_wood_crafting.name": "Natural resources",
+	"creation.power.bartolonii.more_wood_crafting.description": "You can carve more efficient and better quality things from wood",
 	
-	"creation.power.bartolonii.nature.name": "Siła natury",
-	"creation.power.bartolonii.nature.description": "Jesteś fanem wszystkich barw natury. Im więcej ich wchłoniesz, tym bardziej jesteś połączony z Matką Naturą!",
-	"creation.power.bartolonii.nature.badge.1": "Wpływa na umiejętności: %s, %s oraz %s.",
+	"creation.power.bartolonii.nature.name": "Force of nature",
+	"creation.power.bartolonii.nature.description": "You are a fan of all the colors of nature. The more you \"absorb\" them, the more you are connected to Mother Nature!",
+	"creation.power.bartolonii.nature.badge.1": "Affected powers: %s, %s and %s.",
 	
-	"creation.power.bartolonii.nearby_nature.name": "Krótki zasięg Natury",
-	"creation.power.bartolonii.nearby_nature.description": "Gdy w odległości dalszej niż 10 kratek od bloków naturalnych, (jak ziemia, drzewo czy mech) wszystkie efekty pozytywne i umiejętności stają się bezużyteczne do czasu, gdy nie wrócisz do pobliża natury.",
+	"creation.power.bartolonii.nearby_nature.name": "Longing for nature",
+	"creation.power.bartolonii.nearby_nature.description": "When you are more than 10 blocks away from natural blocks (such as dirt, trees, or moss), all positive effects and power lose theirs buffs until you return to the natural environment.",
 	
-	"creation.power.bartolonii.summon_thorns.name": "Podziemny Cierń",
-	"creation.power.bartolonii.summon_thorns.description": "Będąc Druidem za życia, potrafisz manipulować roślinami dla swojej korzyści.",
+	"creation.power.bartolonii.summon_thorns.name": "Underground thorn",
+	"creation.power.bartolonii.summon_thorns.description": "Being a ranger, you can use the flora to your advantage",
 	
-	"creation.power.blaite.camo.name": "Kamuflaż",
-	"creation.power.blaite.camo.description": "Stajesz się jednym ze swoim otoczeniem.",
+	"creation.power.blaite.camo.name": "Camo",
+	"creation.power.blaite.camo.description": "You become one with your surroundings.",
 	
-	"creation.power.blaite.dehydration.name": "Odwodnienie",
-	"creation.power.blaite.dehydration.description": "Nie możesz być daleko od swojego żywiołu. Długie przebywanie w gorących klimatach może powodować: słabość, biegunkę, ślepotę, zatwardzenie. Przed użyciem zapoznaj się z treścią origina lub skonsultuj się z jego twórcą, gdyż każda moc niewłaściwie zapoznana może zagrażać twojemu życiu lub zdrowiu!",
+	"creation.power.blaite.dehydration.name": "Dehydration",
+	"creation.power.blaite.dehydration.description": "You shouldn't stay far from your element. Long stays in hot climates can cause: weakness, diarrhea, blindness, constipation. Before use, read the package leaflet carefully or consult a physician or pharmacist as any medication is a threat to your life or health when used improperly.",
 	
-	"creation.power.blaite.diet.name": "Ścisła dieta",
-	"creation.power.blaite.diet.description": "Nie trawisz przetworzonych produktów.",
+	"creation.power.blaite.diet.name": "Strict diet",
+	"creation.power.blaite.diet.description": "You can't digest processed foods.",
 	
-	"creation.power.blaite.freezing.name": "Gęsia skórka",
-	"creation.power.blaite.freezing.description": "Gdy jesteś głęboko pod ziemią lub głęboko w wodzie szybko marźniesz bez ciepłego odzienia.",
+	"creation.power.blaite.freezing.name": "Shivers",
+	"creation.power.blaite.freezing.description": "When you are deep underground or deep in water you quickly become cold without warm clothing.",
 	
-	"creation.power.blaite.grounded.name": "Elektroujemność",
-	"creation.power.blaite.grounded.description": "Jesteś dobrze uziemiony",
+	"creation.power.blaite.grounded.name": "Electronegativity",
+	"creation.power.blaite.grounded.description": "You are well grounded (physicly speaking).",
 	
 	"creation.power.blaite.hydration.name": "Overhydration",
 	"creation.power.blaite.hydration.description": "You become one with your element (when greatly exposed to it).",
