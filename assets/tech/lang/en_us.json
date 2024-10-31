@@ -391,97 +391,97 @@
 	"creation.power.marjan.xylophobia.name": "Xylophobia",
 	"creation.power.marjan.xylophobia.description": "You have a panic fear of objects made of wood!",
 	
-	"creation.power.memes245.canibalism.name": "Kanibalizm",
-	"creation.power.memes245.canibalism.description": "Lubisz podjadać swoje ofiary, zaspokaja to twój demoniczny głód, lecząc rany po walce.",
+	"creation.power.memes245.canibalism.name": "Canibalism",
+	"creation.power.memes245.canibalism.description": "You like to snack on your victims, it satisfies your demonic hunger and heals battle wounds.",
 	
-	"creation.power.memes245.clairvoyance.name": "Jasnowidzenie",
-	"creation.power.memes245.clairvoyance.description": "Wytężasz swoje mroczne zmysły i wyczuwasz pobliskich przeciwników. Zważ jednal na to, że wytężanie zmysłów ma swoje konsekwencje!",
+	"creation.power.memes245.clairvoyance.name": "Clairvoyance",
+	"creation.power.memes245.clairvoyance.description": "You heighten your dark senses and sense nearby enemies. Remember, however, that straining your senses has its consequences!",
 	
 	"creation.power.memes245.craft_katana.name": "Katana",
-	"creation.power.memes245.craft_katana.description": "Jesteś tradycyjnym japońskim stworzeniem, więc musisz potrafić posługiwać się tradycyjną japońską kataną, oraz ją wytwarzać.",
+	"creation.power.memes245.craft_katana.description": "You are a traditional Japanese creature, so of course you must be able to use a traditional Japanese katana, and craft it.",
 	
 	"creation.power.memes245.dash.name": "Dash",
-	"creation.power.memes245.dash.description": "Dzięki odpowiednio szybkiej pracy nóg, potrafisz wykonać szybki skok w przód, co jednak lekko nadwyręża twoje mięśnie!",
-	"creation.power.memes245.dash.badge.1": "Kliknij dwa razy [%s], aby użyć.",
+	"creation.power.memes245.dash.description": "Thanks to the fast enough footwork, you can perform a quick dash forward, which, however, slightly strains your muscles!",
+	"creation.power.memes245.dash.badge.1": "Double click [%s] to use.",
 	
-	"creation.power.memes245.disfavor.name": "Nieprzychylność",
-	"creation.power.memes245.disfavor.description": "Zdaje się, że lokalsi mogą cię lekko nie lubić :/\nAle nie wszystko stracone. Może, gdy wykażesz się przed nimi bohaterskim czynem, to wtedy powoli się do ciebie przyzwyczają.",
+	"creation.power.memes245.disfavor.name": "Disfavor",
+	"creation.power.memes245.disfavor.description": "It seems that the locals may dislike you a little :/\nBut all is not lost. Maybe if you show them a heroic deed, then they will slowly get used to you.",
 	
-	"creation.power.memes245.fire.name": "Ogień",
-	"creation.power.memes245.fire.description": "(Wymaga katany)\nAktywuj swoje ogniste moce. Wokół ciebie pojawia się aura ognia i twoje wzmocnione ataki podpalają wrogów. Sam Jetstream by pozazdrościł takiej mocy!",
+	"creation.power.memes245.fire.name": "Fire",
+	"creation.power.memes245.fire.description": "(Requires Katana)\nActivate your fiery powers. An aura of fire appears around you and your empowered attacks ignite enemies. Jetstream himself would envy such power!",
 	
-	"creation.power.memes245.hydrophobia.name": "Hydrofobia",
-	"creation.power.memes245.hydrophobia.description": "W dużym skrócie, zbiorniki wodne są twoją słabością i nic nie możesz z tym zrobić, więc dobrze Ci radzę, nie wchodź do wody! I lepiej się nie zachłyśnij...",
+	"creation.power.memes245.hydrophobia.name": "Hydrophobia",
+	"creation.power.memes245.hydrophobia.description": "In a nutshell, bodies of water are your weakness and there is nothing you can do about it, so my advice is, don't go into the water! And you better not choke...",
 	
-	"creation.power.memes245.peace.name": "Spokój",
-	"creation.power.memes245.peace.description": "(Wymaga katany)\nOdpowiednie skupienie, pozwala na refleks szybki jak strzała!",
+	"creation.power.memes245.peace.name": "Peace",
+	"creation.power.memes245.peace.description": "(Requires katana)\nProper focus allows for reflexes as fast as an arrow!",
 	
-	"creation.power.memes245.poison_immunity.name": "Odporność na truciznę",
-	"creation.power.memes245.poison_immunity.description": "\"W końcu jesteś demonem\"",
+	"creation.power.memes245.poison_immunity.name": "Poison Resistance",
+	"creation.power.memes245.poison_immunity.description": "\"After all, you are a demon\"",
 	
 	"creation.power.memes245.toggle_shadow_arms.name": "Onitejutsu",
-	"creation.power.memes245.toggle_shadow_arms.description": "Rzuć mroczne zaklęcie i tchnij życie w ciemność. Z jego głębin wychodzą 3 nowe pary rąk, które pomogą Ci w walce!",
+	"creation.power.memes245.toggle_shadow_arms.description": "Cast a dark spell and breathe life into the darkness. From its depths emerge 3 new pairs of hands to help you in battle!",
 	
-	"creation.power.memes245.water_vulnerable.name": "Wrażliwość na wilgoć",
-	"creation.power.memes245.water_vulnerable.description": "Nie możesz używać ognistych ataków, podczas wystawienia na czynnik wody",    
+	"creation.power.memes245.water_vulnerable.name": "Moisture sensitivity",
+	"creation.power.memes245.water_vulnerable.description": "You cannot use fire attacks while exposed to water.",    
 	
-	"creation.power.rafi.agility.name": "Zwinność partyzanta",
-	"creation.power.rafi.agility.description": "Potrafisz w szybki sposób przemieszczać się po lesie.",
+	"creation.power.rafi.agility.name": "Guerrilla agility",
+	"creation.power.rafi.agility.description": "You can move around the forest quite quickly.",
 	
-	"creation.power.rafi.custom_bows.name": "Łukmistrz",
-	"creation.power.rafi.custom_bows.description": "Potrafisz tworzyć znakomite elfie łuki, przy użyciu odpowiednich materiałów.",        
+	"creation.power.rafi.custom_bows.name": "Bowmaster",
+	"creation.power.rafi.custom_bows.description": "You can create exquisite elven bows using the right materials.",        
 	
-	"creation.power.rafi.reduced_hp.name": "Kruche kości",
-	"creation.power.rafi.reduced_hp.description": "Jako elf, jesteś bardziej podatny na obrażenia. Możesz za to przygotowywać specjalne wywary, które dają ci wytrzymałość porównywalną z zwykłym człowiekiem.",
+	"creation.power.rafi.reduced_hp.name": "Fragile bones",
+	"creation.power.rafi.reduced_hp.description": "As an elf, you are more susceptible to damage. You can prepare special potions that counteract this effect, giving you durability comparable to that of an ordinary human.",
 	
-	"creation.power.rafi.restrict_armor.name": "Lekkie uzbrojenie",
-	"creation.power.rafi.restrict_armor.description": "Nie możesz nosić zbroi cięższych od żelaznych.",
+	"creation.power.rafi.restrict_armor.name": "Light armor",
+	"creation.power.rafi.restrict_armor.description": "Your can't wear armor heavier than iron.",
 	
-	"creation.power.rafi.stealth.name": "Kamuflarz",
-	"creation.power.rafi.stealth.description": "Potrafisz bardzo dobrze wtapiać się w otoczenie, jednak wymaga to dużo skupienia i najlepiej działa w bezruchu.",
+	"creation.power.rafi.stealth.name": "Camouflage",
+	"creation.power.rafi.stealth.description": "You can blend in with your surroundings very well, but it requires a lot of concentration and works best when you're standing still.",
 	
-	"creation.power.rafi.sturdy_feet.name": "Mocne stopy",
-	"creation.power.rafi.sturdy_feet.description": "Przez leśny tryb życia pośród drzew (i po wielokrotnych upadkach z nich) twoja rasa wyewolułowała sobie stopy odporniejsze na §ofall damage§r. Ale czad!",
+	"creation.power.rafi.sturdy_feet.name": "Strong feet",
+	"creation.power.rafi.sturdy_feet.description": "Due to your forest lifestyle among the trees (and after repitedly falling from them), your race has evolved themselves feet that are more resistant to §ofall damage§r. What a blast!",
 	
-	"creation.power.syriusz.charge.name": "Autodestrukcja",
-	"creation.power.syriusz.charge.description": "Naładuj się, aby wywołać potężną eksplozję (można ją anulować naciskając klawisz [%s]). Eksplozje wypychają cię do przodu podczas biegu i wymagają dużego nakładu energii, którą do następnego użycia musisz odzyskać z pożywienia. Dokonanie lub anulowanie samozniszczenia znacznie wyczerpuje twoje ciało na czas odnowienia, a przy udanej eksplozji.",
+	"creation.power.syriusz.charge.name": "Self-destruct",
+	"creation.power.syriusz.charge.description": "Charge up to unleash a powerful explosion (can be canceled by pressing [%s]). Explosions propel you forward as you run and require a large amount of energy, which you must replenish from food for the next use. Self-destructing or canceling it significantly depletes your body on cooldown.",
 	
-	"creation.power.technicman.deformation.name": "Deformacja ciała",
-	"creation.power.technicman.deformation.description": "Opętane ciało jest przesączone mrocznymi mocami które jednocześnie je wzmacniają jak i deformują w bolesny sposób. Zakładanie zbroi na górną część ciała odpada.",
+	"creation.power.technicman.deformation.name": "Deformation",
+	"creation.power.technicman.deformation.description": "The possessed body is imbued with dark powers that both strengthen and deform in painful ways. Putting armor on the upper half is out of the question.",
 	
-	"creation.power.technicman.demon_form.name": "Furia",
-	"creation.power.technicman.demon_form.description.1": "Gdy pasek demonicznej energii jest pełny, sprowokowany demon w końcu się budzi! Niech stwórca ma litość nad tymi, którzy mu się narazili!",
-	"creation.power.technicman.demon_form.description.2": "Zmiany w umiejętnościach:",
-	"creation.power.technicman.demon_form.description.wormhole": "- %s -> %s: natychmiastowa teleportacja do kursora, spory zasięg działania.",
-	"creation.power.technicman.demon_form.description.dark_smite": "- %s -> %s: przywołaj mroczne uderzenie. Wszyscy przeciwnicy w jego zasięgu zaczynają obumierać!",
-	"creation.power.technicman.demon_form.wormhole.name": "Tunel hiperprzestrzenny",
-	"creation.power.technicman.demon_form.dark_smite.name": "Mroczne porażenie",
+	"creation.power.technicman.demon_form.name": "Fury",
+	"creation.power.technicman.demon_form.description.1": "When the demonic energy bar is full, the provoked demon finally awakens! May the creator have mercy on those who opposed him!",
+	"creation.power.technicman.demon_form.description.2": "Changes in powers:",
+	"creation.power.technicman.demon_form.description.wormhole": "- %s -> %s: instant teleportation to the cursor, large range of action.",
+	"creation.power.technicman.demon_form.description.dark_smite": "- %s -> %s: summons a dark strike. All enemies within its range wither away!",
+	"creation.power.technicman.demon_form.wormhole.name": "Wormhole",
+	"creation.power.technicman.demon_form.dark_smite.name": "Dark Smite",
 	
-	"creation.power.technicman.demonic_energy.name": "Demoniczna energia",
-	"creation.power.technicman.demonic_energy.description": "Twój wewnętrzny demon żywi się demoniczną energią zemsty! Pozyskuje ją on podczas wyrządzania zadośćuczynienia wrogom",
-	"creation.power.technicman.demonic_energy.badge.1": "%s oraz %s wysysają Twoją Demoniczną Energię",
+	"creation.power.technicman.demonic_energy.name": "Demonic Energy",
+	"creation.power.technicman.demonic_energy.description": "Your inner demon feeds on the energy of vengeance! He obtains it by making amends to his enemies",
+	"creation.power.technicman.demonic_energy.badge.1": "%s and %s drain your Demonic Energy",
 	
-	"creation.power.technicman.hunger_for_vengence.name": "Głód zemsty",
-	"creation.power.technicman.hunger_for_vengence.description": "Twój wewnętrzny demon nie radzi sobie dobrze z pustym bakiem demonicznej energii! Gdy jest bardzo niska, możesz ją tymczasowo zaspokajać pożerając to, co zostało z twoich przeciwników.",
+	"creation.power.technicman.hunger_for_vengence.name": "Hunger for Vengeance",
+	"creation.power.technicman.hunger_for_vengence.description": "Your inner demon does not do well with an empty tank of demonic energy! When it's very low, you can temporarily satiate it by devouring what's left of your opponents.",
 	
-	"creation.power.technicman.melting.name": "Niestabilna forma",
-	"creation.power.technicman.melting.description": "Demoniczna substancja pokrywająca twoje ciało łatwo rozpuszcza się w wodzie. Bądź więc, jak twoi koledzy z zamiłowaniem do ryżowych opowieści i za wszelką cenę unikaj kąpieli.",
+	"creation.power.technicman.melting.name": "Unstable Form",
+	"creation.power.technicman.melting.description": "The demonic substance that covers your body dissolves easily in water. So be like your rice-tale-loving pals and avoid bathing at all costs.",
 	
-	"creation.power.technicman.mensingresion.name": "Mensingresja",
-	"creation.power.technicman.mensingresion.description": "§lPrzeklęte znamie§r: naznacz przeciwnika przeklętym znamieniem, aby móc w dowolnej chwili wejść do jego umysłu!\n\nPonowne aktywowanie umiejętności skutkuje wejściem do jego umysłu! Podczas tego stanu nie jesteś w stanie zbytnio ingerować w otoczenie. Jedynie ty i twoja ofiara jesteście w stanie ze sobą reagować nawzajem! Tylko twoja ofiara cię widzi podczas tego stanu.",
+	"creation.power.technicman.mensingresion.name": "Mensingresion",
+	"creation.power.technicman.mensingresion.description": "§lCursed Mark§r: Mark an enemy with a cursed mark to enter their mind at any time!\n\nReactivating the ability enters their mind. During this state, you are unable to interfere much with your surroundings. Only you and your target can interact with each other! Only your target can see you during this state.",
 	
-	"creation.power.technicman.omniscience.name": "Omnisciencja",
-	"creation.power.technicman.omniscience.description": "Znasz co do szczegółu originy i umiejętności innych (bo sam je stworzyłeś lol).",
+	"creation.power.technicman.omniscience.name": "Omniscience",
+	"creation.power.technicman.omniscience.description": "You know the origins and skills of others in detail (because you created them yourself lol). This power was only relevant to creator of this datapack - Technicman, as in his SMP nobody knew the powers of each other! Didn't want to delete it tho for sentimental reasons",
 	
-	"creation.power.technicman.shadow_teleportation.name": "Widmoportacja",
-	"creation.power.technicman.shadow_teleportation.description": "Przejdź na drugą stronę rzeczywistości zmieniając swoją formę na widmo i podróżuj bez żadnych ograniczeń!\n(Przytrzymaj [%s] podczas aktywacji, aby przeteleportować się w losowe miejsce)",
+	"creation.power.technicman.shadow_teleportation.name": "Phantomportation",
+	"creation.power.technicman.shadow_teleportation.description": "Go to the other side of reality by changing your form into a phantom and travel without any restrictions!\n(Hold [%s] during activation to teleport to a random location instead)",
 	
-	"creation.power.watsug.bfg.name": "Miłośnik zagłady",
-	"creation.power.watsug.bfg.description": "Twoje imię zobowiązuje. Potrafisz wytwarzać oraz obsługiwać broń palną!",
+	"creation.power.watsug.bfg.name": "Doom lover",
+	"creation.power.watsug.bfg.description": "Your name is binding. You can manufacture and operate firearms to satisfy your destructive needs!",
 	
-	"creation.power.watsug.inhuman_strength.name": "Nadludzka siła",
-	"creation.power.watsug.inhuman_strength.description": "Posiadasz nadludzką siłę, jednak twoje olbrzymie bary lekko przeszkadzają ci w poruszaniu się!",
+	"creation.power.watsug.inhuman_strength.name": "Inhuman strength",
+	"creation.power.watsug.inhuman_strength.description": "You are far more strong than a mere mortal could ever be, but your huge shoulders make it a bit difficult for you to move!",
 	
-	"creation.power.watsug.need_more_energy.name": "Wysiłek fizyczny",
-	"creation.power.watsug.need_more_energy.description": "Twoje ataki wymagają dużego nakładu energi. Potrzebujesz więcej żywności, aby odnowić swoje siły witalne."
+	"creation.power.watsug.need_more_energy.name": "Physical exhaustion",
+	"creation.power.watsug.need_more_energy.description": "Your attacks require a large amount of energy. You need more food to replenish your vitality."
 }
