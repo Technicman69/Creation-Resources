@@ -1,4 +1,16 @@
 {
+	"creation.advancements.root.title": "Kreacja",
+	"creation.advancements.root.description": "Wybierz swojego Origina",
+
+	"creation.advancements.craft_knowledge_book.title": "Zakazana receptura",
+	"creation.advancements.craft_knowledge_book.description": "Odkryj i wykonaj recepturę obcego Origina",
+
+    "creation.advancements.kill_origin.title": "Zabójca",
+    "creation.advancements.kill_origin.description": "Zabij dowolną kreację",
+	
+	"creation.advancements.kill_all_origins.title": "Legendarny rasista",
+	"creation.advancements.kill_all_origins.description": "Dokonaj zabójstwa wszystkich kreacji!",
+
     "creation.advancements.kill.bartolonii.title": "Pojedynek Czarodzieji",
     "creation.advancements.kill.bartolonii.description": "Zabij Bartoloniiego",
 
@@ -47,9 +59,6 @@
     "creation.advancements.kill.watsug.title": "Demon Slayer Slayer",
     "creation.advancements.kill.watsug.description": "Zabij Watsuga",
     
-    "creation.advancements.kill_origin.title": "Zabójca",
-    "creation.advancements.kill_origin.description": "Zabij dowolną kreację",
-
     "creation.catandon.change_mode": "Przełączono na tryb: %s",
     "creation.catandon.mode.active": "Aktywny",
     "creation.catandon.mode.empty": "Oszczędzania energii",
@@ -376,7 +385,9 @@
     
     "creation.power.marjan.toggle_lock.name": "Blokada",
     "creation.power.marjan.toggle_lock.description": "Zablokowanie laski, powoduje, że nie zmienia ona swojego trybu",
-    
+    "creation.power.marjan.toggle_lock.mode_auto": "Tryb: automatyczny",
+	"creation.power.marjan.toggle_lock.mode_locked": "Tryb: zablokowany",
+
     "creation.power.marjan.triple_effect_durations.name": "Mistrz alchemii",
     "creation.power.marjan.triple_effect_durations.description": "Mikstury mają trzykrotnie dłuższy czas trwania!",
     

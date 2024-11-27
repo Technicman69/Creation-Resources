@@ -1,4 +1,16 @@
 {
+	"creation.advancements.root.title": "Creation",
+	"creation.advancements.root.description": "Choose your Origin",
+
+	"creation.advancements.craft_knowledge_book.title": "Forbidden recipe",
+	"creation.advancements.craft_knowledge_book.description": "Discover and craft a recipe of another Origin",
+	
+	"creation.advancements.kill_origin.title": "Killer",
+	"creation.advancements.kill_origin.description": "Kill any Creation",
+	
+	"creation.advancements.kill_all_origins.title": "The ultimate racist",
+	"creation.advancements.kill_all_origins.description": "Kill every Creation!",
+
 	"creation.advancements.kill.bartolonii.title": "Druid duel",
 	"creation.advancements.kill.bartolonii.description": "Kill Ranger",
 	
@@ -46,9 +58,6 @@
 	
 	"creation.advancements.kill.watsug.title": "Demon Slayer Slayer",
 	"creation.advancements.kill.watsug.description": "Kill Doomguy",
-	
-	"creation.advancements.kill_origin.title": "Killer",
-	"creation.advancements.kill_origin.description": "Kill any Creation",
 
 	"creation.catandon.change_mode": "Switched to %s mode",
 	"creation.catandon.mode.active": "active",
@@ -378,7 +387,9 @@
 	
 	"creation.power.marjan.toggle_lock.name": "Lock",
 	"creation.power.marjan.toggle_lock.description": "Locking the staff prevents it from changing its mode",
-	
+	"creation.power.marjan.toggle_lock.mode_auto": "Mode: auto",
+	"creation.power.marjan.toggle_lock.mode_locked": "Mode: locked",
+
 	"creation.power.marjan.triple_effect_durations.name": "Master of Alchemy",
 	"creation.power.marjan.triple_effect_durations.description": "Potions last three times longer!",
 	
