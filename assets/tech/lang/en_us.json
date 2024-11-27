@@ -248,11 +248,11 @@
 	"creation.power.jetstream.no_regen.name": "Artificial body",
 	"creation.power.jetstream.no_regen.description": "The fact that you are half-cyborg means that damaged parts don't regenerate as easily as an organic body!",
 	
-	"creation.power.jetstream.speed.name": "Cybordże nogi",
-	"creation.power.jetstream.speed.description": "Dzięki cybernetycznym wzmocnieniom jesteś szybki, jakbyś od urodzenia nie opuścił żadnego dnia nóżek.",
+	"creation.power.jetstream.speed.name": "Cyber-legs",
+	"creation.power.jetstream.speed.description": "Thanks to your cybernetic enhancements, you're as fast as if you've never missed a leg day since you were born.",
 	
-	"creation.power.jetstream.strong_legs.name": "Mocne nogi",
-	"creation.power.jetstream.strong_legs.description": "Dzięki lekkim cybernetycznym wzmocnieniom i dobrej technice lądowania Sam nie odnosi obrażeń od upadku! §n(SHIFT)",
+	"creation.power.jetstream.strong_legs.name": "Break a leg!",
+	"creation.power.jetstream.strong_legs.description": "Thanks to a slight cybernetic boost and good landing technique, Sam is lucky not to suffer any fall injuries! §n(hold sneak key)",
 	
 	"creation.power.jetstream.taunt.name": "Taunt",
 	"creation.power.jetstream.taunt.description": "J Sam throws an insult at an enemy, pissing them off and causing them to lower their guard (only works on hostile mobs and players)",
